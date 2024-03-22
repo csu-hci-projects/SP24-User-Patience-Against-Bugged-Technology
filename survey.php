@@ -10,7 +10,7 @@
     </head>
     <body>
     <ul>
-            <li><a href="main.php">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="survey.php">Take The Survey</a></li>
         </ul>
         I don't have anything for ya yet...
