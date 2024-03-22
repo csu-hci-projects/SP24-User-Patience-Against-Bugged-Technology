@@ -1,19 +1,18 @@
-
-body{
-    background-color: white;
+footer{
+    text-align: center;
+    color: white;
+    background-color: #9aa9e3;
 }
 html * {
     font-family: Arial, Helvetica, sans-serif;
-    color:black;
-    max-width: 1200px;
-    margin: auto;
+    color:rgb(27, 11, 93)
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #F29F05;
+    background-color: #352770;
 }
 li {
     float: left;
@@ -27,5 +26,5 @@ li a {
 }
 li a:hover {
     color:#161c33;
-    background-color:#F2B705;
+    background-color:rgb(216, 228, 255);
 }
