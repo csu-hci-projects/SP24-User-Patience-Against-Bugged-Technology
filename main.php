@@ -9,8 +9,12 @@
         <meta name="author" content="Ri Nabbefeld">
     </head>
     <body>
+    <ul>
+            <li><a href="main.php">Home</a></li>
+            <li><a href="survey.php">Take The Survey</a></li>
+        </ul>
         <h1><center>Survey Homepage: WIP</center><h1>
-        text here
+        Welcome to our CS464 Experiment!
     </body><br>
     <footer>
               footer
