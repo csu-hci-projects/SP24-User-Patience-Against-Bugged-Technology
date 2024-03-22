@@ -9,7 +9,7 @@
         <meta name="author" content="Ri Nabbefeld">
     </head>
     <body>
-        <h1><center>Work In Progress</center><h1>
+        <h1><center>Survey Homepage: WIP</center><h1>
         text here
     </body><br>
     <footer>
