@@ -14,9 +14,24 @@
             <li><a href="survey.php">Take The Survey</a></li>
         </ul>
         <h1><center>Survey Homepage: WIP</center><h1>
-        Welcome to our CS464 Experiment!
+        <h4>
+            Welcome to the page for our CS464 group project experiment.
+            <br><br>
+            This experiment aims to analyze participant interaction with technology in a survey format, as correlated to participant demographics.
+            <br><br>
+            To participate in our project, please go to the "Take the Survey" tab of this page. You will be given directions, and then asked a series of questions. 
+            <br><br>
+            This survey will collect data on your age rage, gender, and tech experience. You will also be timed as you take the survey, but there is no time limit.
+            <br><br>
+            More About Us:
+            <br>
+            INSERT BIO STUFF
+        </h4>
     </body><br>
-    <footer>
-              footer
-    </footer>
+    <footer> <center>
+    Contact Us: 
+        Github: ~~link to this page~~
+        Email: ~~~one/all of our emails~~~
+        Course Website for CS464
+    <center> </footer>
 </html>
