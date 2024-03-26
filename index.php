@@ -14,7 +14,7 @@
             <li><a href="survey.php">Take The Survey</a></li>
         </ul>
         <h1><center>Survey Homepage: WIP</center><h1>
-        <h4>
+        <h5>
             Welcome to the page for our CS464 group project experiment.
             <br><br>
             This experiment aims to analyze participant interaction with technology in a survey format, as correlated to participant demographics.
@@ -26,12 +26,12 @@
             More About Us:
             <br>
             INSERT BIO STUFF
-        </h4>
+        </h5>
     </body><br>
     <footer> <center>
-    Contact Us: 
-        Github: ~~link to this page~~
-        Email: ~~~one/all of our emails~~~
+    Contact Us: <br>
+        Github: ~~link to this page~~<br>
+        Email: ~~~one/all of our emails~~~<br>
         Course Website for CS464
     <center> </footer>
 </html>
