@@ -1,4 +1,3 @@
-
 footer{
     text-align: center;
     color: white;
@@ -10,8 +9,12 @@ html * {
     color:rgb(27, 11, 93)
     
 }
-h5{
+h4{
     font-size: 25px;
+    font-style: bold;
+}
+h5{
+    font-size: 20px;
 }
 ul {
     list-style-type: none;
