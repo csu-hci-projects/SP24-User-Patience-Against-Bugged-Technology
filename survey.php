@@ -20,5 +20,7 @@
             <br><br>
         Thank you for your participation!<h5></center>
     </body><br>
-    <a href="demographics.php" class="button button1">Start the Survey</a>
+    <center>
+        <a href="demographics.php" class="button button1">Start the Survey</a>
+    </center>
 </html>
