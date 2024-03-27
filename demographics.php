@@ -6,18 +6,9 @@
         <meta charset="UTF-8">
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
-        <style>
-        .quit-button {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-        } 
-        .question-container {
-            text-align: center;
-        }
-    </style>
     </head>
     <body>
+        <br><br><br><br>
         <div class="question-container">
             <h4><center>Question 1</center><h4>
             <h5><center>Please select your age range:</center><h5>
@@ -104,9 +95,9 @@
         </div>
 
 
-        <button class="quit-button" onclick="quitSurvey()">Quit Survey</button>
+        <a href="index.php" class="button quit-button">Quit Survey</a>
         <center>
-        <button onclick="nextPage()">Next Page</button>
+        <a href=# class="button button1">Next Page</a>
     </center>
     </body><br>
     <footer>
