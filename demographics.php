@@ -93,6 +93,20 @@
                 <label for="Q3A9">Prefer not to say</label>
                 </div>
         </div>
+        <div class="question-container">
+            <h4><center>Question 4</center><h4>
+            <h5><center>How would you rate your proficiency with technology?</center><h5>
+                <div>
+                    <input type="radio" value="Low" id="Q4A1" name="Q1"/>
+                    <label for="Q4A1">Low</label>
+                </div><div>
+                    <input type="radio" value="Medium" id="Q4A2" name="Q1"/>
+                    <label for="Q4A2">Medium</label>
+                </div><div>
+                    <input type="radio" value="High" id="Q4A3" name="Q1"/>
+                    <label for="Q4A3">High</label>
+                </div>
+        </div>
 
 
         <a href="index.php" class="button quit-button">Quit Survey</a>
