@@ -10,7 +10,7 @@
     <body>
     <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="survey.php">Take The Survey</a></li>
+            <li><a href="surveyIndex.php">Take The Survey</a></li>
         </ul>
         <h4><center>Instructions:</center><h4>
         <h5><center>Please complete the following survey to the best of your abilities. <br>
