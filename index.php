@@ -11,7 +11,7 @@
     <body>
     <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="survey.php">Take The Survey</a></li>
+            <li><a href="surveyIndex.php">Take The Survey</a></li>
         </ul>
         <h1><center>CS 464 Survey Homepage</center><h1>
         <h5><center>
