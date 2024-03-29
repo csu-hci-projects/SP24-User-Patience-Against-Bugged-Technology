@@ -100,9 +100,6 @@
         <a href=# class="button button1">Next Page</a>
     </center>
     </body><br>
-    <footer>
-              footer
-    </footer>
 </html>
 
 <script>
