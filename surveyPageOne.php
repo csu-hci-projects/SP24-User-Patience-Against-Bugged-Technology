@@ -11,224 +11,159 @@
         <br><br><br><br>
         <div class="question-container">
             <h4><center>Question 5</center><h4>
-            <h5><center>What month were you born in?</center><h5>
+            <h5><center>Do you use social media?</center><h5>
                 <div>
-                    <input type="radio" value="Under 18" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">January</label>
+                    <input type="radio" value="Yes social" id="Q5A1" name="Q5"/>
+                    <label for="Q5A1">Yes</label>
                 </div><div>
-                    <input type="radio" value="18-20" id="Q1A2" name="Q1"/>
-                    <label for="Q1A2">Febuary</label>
-                </div><div>
-                    <input type="radio" value="21-25" id="Q1A3" name="Q1"/>
-                    <label for="Q1A3">March</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">April</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">May</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">June</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">July</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">August</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">September</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">October</label>
-                </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">November</label>
-                 </div><div>
-                    <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">December</label>
+                    <input type="radio" value="No social" id="Q5A2" name="Q5"/>
+                    <label for="Q5A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 6</center><h4>
-            <h5><center>What is your favorite color?</center><h5>
+            <h5><center>When you sleep, do you run hot or run cold?</center><h5>
                 <div>
-                    <input type="radio" value="Female" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Red</label>
-                </div>
-
-                <div>
-                    <input type="radio" value="Male" id="Q2A2" name="Q2"/>
-                    <label for="Q2A2">Orange</label>
-                </div>
-                <div>
-                    <input type="radio" value="Non-binary" id="Q2A3" name="Q2"/>
-                    <label for="Q2A3">Yellow</label>
-                </div>
-                <div>
-                    <input type="radio" value="Other" id="Q2A4" name="Q2"/>
-                    <label for="Q2A4">Green</label>
-                </div>
-                <div>
-                <input type="radio" value="Prefer not to say" id="Q2A5" name="Q2"/>
-                <label for="Q2A5">Blue</label>
-                </div>
-                <div>
-                <input type="radio" value="Prefer not to say" id="Q2A5" name="Q2"/>
-                <label for="Q2A5">Indigo</label>
-                </div>
-                <div>
-                <input type="radio" value="Prefer not to say" id="Q2A5" name="Q2"/>
-                <label for="Q2A5">Violet</label>
-                </div>
-                <div>
-                <input type="radio" value="Prefer not to say" id="Q2A5" name="Q2"/>
-                <label for="Q2A5">Pink</label>
-                </div>
-                <div>
-                <input type="radio" value="Prefer not to say" id="Q2A5" name="Q2"/>
-                <label for="Q2A5">Black</label>
-                </div>
-                <div>
-                <input type="radio" value="Prefer not to say" id="Q2A5" name="Q2"/>
-                <label for="Q2A5">White</label>
+                    <input type="radio" value="Yes social" id="Q6A1" name="Q6"/>
+                    <label for="Q6A1">Hot</label>
+                </div><div>
+                    <input type="radio" value="No social" id="Q6A2" name="Q6"/>
+                    <label for="Q6A2">Cold</label>
                 </div>
         </div>
-
         <div class="question-container">
             <h4><center>Question 7</center><h4>
-            <h5><center>Pick an animal: </center><h5>
+            <h5><center>Do you prefer waking up early or going to sleep late?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Lion</label>
+                    <input type="radio" value="Female" id="Q7A1" name="Q7"/>
+                    <label for="Q7A1">Early</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">Tiger</label>
+                    <input type="radio" value="Male" id="Q7A2" name="Q7"/>
+                    <label for="Q7A2">Late</label>
                 </div>
                 <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">Bear</label>
+                    <input type="radio" value="Non-binary" id="Q7A3" name="Q7"/>
+                    <label for="Q7A3">Neither</label>
                 </div>
                 <div>
-                    <input type="radio" value="Asian" id="Q3A4" name="Q3"/>
-                    <label for="Q3A4">Wolf</label>
+                    <input type="radio" value="Other" id="Q7A4" name="Q7"/>
+                    <label for="Q7A4">Both</label>
                 </div>
         </div>
+
         <div class="question-container">
             <h4><center>Question 8</center><h4>
-            <h5><center>You are standing on a train track in front of a lever, and a train is coming. On the current track, there are 5 workers who do not see the train, but on the other track accessed by pulling the lever, there is 1 worker. Do you pull the lever?</center><h5>
+            <h5><center>How conscientiousness are you about your diet? </center><h5>
                 <div>
-                    <input type="radio" value="Low" id="Q4A1" name="Q1"/>
-                    <label for="Q4A1">I pull the lever, killing 1 worker</label>
-                </div><div>
-                    <input type="radio" value="Medium" id="Q4A2" name="Q1"/>
-                    <label for="Q4A2">I don't pull the lever and let the 5 die</label>
-                <div class="bottom-space"></div>
+                    <input type="radio" value="Caucasian" id="Q8A1" name="Q8"/>
+                    <label for="Q8A1">I don’t care</label>
+                </div>
+
+                <div>
+                    <input type="radio" value="African-American" id="Q8A2" name="Q8"/>
+                    <label for="Q8A2">I consider it sometimes</label>
+                </div>
+                <div>
+                    <input type="radio" value="Latino or Hispanic" id="Q8A3" name="Q8"/>
+                    <label for="Q8A3">I consider it often</label>
+                </div>
+                <div>
+                    <input type="radio" value="Asian" id="Q8A4" name="Q8"/>
+                    <label for="Q8A4">I’m very aware of my diet</label>
+                </div>
         </div>
         <div class="question-container">
             <h4><center>Question 9</center><h4>
-            <h5><center>Pick a sport: </center><h5>
+            <h5><center>How often do you make an effort to exercise?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Basketball</label>
-                </div>
-
-                <div>
-                    <input type="radio" value="African-American" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">Baseball</label>
-                </div>
-                <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">Cricket</label>
-                </div>
-                <div>
-                    <input type="radio" value="Asian" id="Q3A4" name="Q3"/>
-                    <label for="Q3A4">Bowling</label>
-                </div>
+                    <input type="radio" value="Low" id="Q9A1" name="Q9"/>
+                    <label for="Q9A1">Never</label>
+                </div><div>
+                    <input type="radio" value="Medium" id="Q9A2" name="Q9"/>
+                    <label for="Q9A2">Sometimes</label>
+                </div><div>
+                    <input type="radio" value="Medium" id="Q9A3" name="Q9"/>
+                    <label for="Q9A3">Often</label>
+                </div><div>
+                    <input type="radio" value="Medium" id="Q9A4" name="Q9"/>
+                    <label for="Q9A4">Daily</label>
+                    <div class="bottom-space"></div>
         </div>
         <div class="question-container">
             <h4><center>Question 10</center><h4>
-            <h5><center>What school subject is easiest for you?</center><h5>
+            <h5><center>Do you go to therapy? </center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">English</label>
+                    <input type="radio" value="Caucasian" id="Q10A1" name="Q10"/>
+                    <label for="Q10A1">Yes</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">Math</label>
+                    <input type="radio" value="African-American" id="Q10A2" name="Q10"/>
+                    <label for="Q10A2">No</label>
+                </div>
+        </div>
+        <div class="question-container">
+            <h4><center>Question 11</center><h4>
+            <h5><center>When you get sick, do you take sick days?</center><h5>
+                <div>
+                    <input type="radio" value="Caucasian" id="Q11A1" name="Q11"/>
+                    <label for="Q11A1">Always</label>
+                </div>
+
+                <div>
+                    <input type="radio" value="African-American" id="Q11A2" name="Q11"/>
+                    <label for="Q11A2">Never</label>
                 </div>
                 <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">History</label>
-                </div>
-                <div>
-                    <input type="radio" value="Asian" id="Q3A4" name="Q3"/>
-                    <label for="Q3A4">Science</label>
+                    <input type="radio" value="Latino or Hispanic" id="Q11A3" name="Q11"/>
+                    <label for="Q11A3">Sometimes</label>
                 </div>
         </div>
 
         <div class="question-container">
-            <h4><center>Question 11</center><h4>
-            <h5><center>True or False: Humans are mammals</center><h5>
+            <h4><center>Question 12</center><h4>
+            <h5><center>Do you regularly go to the dentist?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">True</label>
+                    <input type="radio" value="Caucasian" id="Q12A1" name="Q12"/>
+                    <label for="Q12A1">Yes</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">False</label>
+                    <input type="radio" value="African-American" id="Q12A2" name="Q12"/>
+                    <label for="Q12A2">No</label>
                 </div>
                 <div class="bottom-space"></div>
         </div>
         <div class="question-container">
-            <h4><center>Question 12</center><h4>
-            <h5><center>What is x in this equation? 2x + 5 = 15</center><h5>
+            <h4><center>Question 13</center><h4>
+            <h5><center>Do you regularly see a general care doctor?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">10</label>
+                    <input type="radio" value="Caucasian" id="Q13A1" name="Q13"/>
+                    <label for="Q13A1">Yes</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">4</label>
-                </div>
-                <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">5</label>
-                </div>
-                <div>
-                    <input type="radio" value="Asian" id="Q3A4" name="Q3"/>
-                    <label for="Q3A4">8</label>
+                    <input type="radio" value="African-American" id="Q13A2" name="Q13"/>
+                    <label for="Q13A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 14</center><h4>
-            <h5><center>What is your favorite book? Type none if you do not have one</center><h5>
-            <div>
-                <input type="text" id="favorite-boook" name="favorite-boook" placeholder="Enter your answer here">
-             </div>
-                
-        </div>
-        <div class="question-container">
-            <h4><center>Question 15</center><h4>
-            <h5><center>Are you introverted or extroverted?</center><h5>
+            <h5><center>Do you ever eat dessert for breakfast?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">introverted</label>
+                    <input type="radio" value="Caucasian" id="Q14A1" name="Q14"/>
+                    <label for="Q14A1">All the time</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">extroverted</label>
+                    <input type="radio" value="African-American" id="Q14A2" name="Q14"/>
+                    <label for="Q14A2">Sometimes</label>
                 </div>
                 <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">ambiverted</label>
+                    <input type="radio" value="Latino or Hispanic" id="Q14A3" name="Q14"/>
+                    <label for="Q14A3">Never</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
