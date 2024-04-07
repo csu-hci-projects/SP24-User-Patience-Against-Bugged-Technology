@@ -179,6 +179,6 @@
     }
 
     function nextPage() {
-        window.location.href = "next_page.php"; // Change to the next page in survey 
+        window.location.href = "surveyPageTwo.php"; // Change to the next page in survey 
     }
 </script>
