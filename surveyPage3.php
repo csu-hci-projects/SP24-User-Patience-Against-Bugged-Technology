@@ -13,72 +13,72 @@
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Red" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Red</label>
+                    <input type="radio" value="" id="Q1A1" name="Q1"/>
+                    <label for="Q1A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question</center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Lion" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Lion</label>
+                    <input type="radio" value="" id="Q2A1" name="Q2"/>
+                    <label for="Q2A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Sleep" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Sleep</label>
+                    <input type="radio" value="" id="Q3A1" name="Q3"/>
+                    <label for="Q3A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question</center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Rainy" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Rainy</label>
+                    <input type="radio" value="" id="Q4A1" name="Q4"/>
+                    <label for="Q4A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Circle" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Circle</label>
+                    <input type="radio" value="" id="Q5A1" name="Q5"/>
+                    <label for="Q5A1">Answert</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Pop" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Pop</label>
+                    <input type="radio" value="" id="Q6A1" name="Q6"/>
+                    <label for="Q6A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Coco Puffs" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Coco Puffs</label>
+                    <input type="radio" value="" id="Q7A1" name="Q7"/>
+                    <label for="Q7A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Sour Candy" id="Q8A1" name="Q8"/>
-                    <label for="Q8A1">Sour Candy</label>
+                    <input type="radio" value="" id="Q8A1" name="Q8"/>
+                    <label for="Q8A1">Answer</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Spring" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Spring</label>
+                    <input type="radio" value="" id="Q9A1" name="Q9"/>
+                    <label for="Q9A1">Answer</label>
                 </div>
                 
         </div>
@@ -86,8 +86,8 @@
             <h4><center>Question </center><h4>
             <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="Mac and Cheese" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Mac and Cheese</label>
+                    <input type="radio" value="" id="Q3A1" name="Q10"/>
+                    <label for="Q3A1">Answer</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
