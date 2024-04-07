@@ -229,7 +229,7 @@
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
         <center>
-        <a href=# class="button button1">Next Page</a>
+        <a href=# class="button button1">Next Page</a> // CHANGE TO PAGE 3
     </center>
     </body><br>
 </html>
