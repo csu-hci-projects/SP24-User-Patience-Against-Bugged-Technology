@@ -101,6 +101,6 @@
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
     function nextPage() {
-        window.location.href = "surveyPage6.php"; // Change to the next page in survey 
+        window.location.href = "surveyPage6.php"; 
     }
 </script>

@@ -92,7 +92,7 @@
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
         <center>
-        <a href=# class="button button1">Next Page</a>
+        <a href= "surveyPage7.php" class="button button1">Next Page</a>
     </center>
     </body><br>
 </html>
@@ -101,6 +101,6 @@
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
     function nextPage() {
-        window.location.href = "next_page.php"; // Change to the next page in survey 
+        window.location.href =  "surveyPage7.php"; // Change to the next page in survey 
     }
 </script>
