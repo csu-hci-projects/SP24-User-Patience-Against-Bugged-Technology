@@ -17,76 +17,140 @@
                     <label for="Q1A1">JAN</label>
                 </div>
                 <div>
-                    <input type="radio" value="Feb" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">FEB</label>
+                    <input type="radio" value="Feb" id="Q1A2" name="Q1"/>
+                    <label for="Q1A2">FEB</label>
                 </div>
                 <div>
-                    <input type="radio" value="Mar" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">MAR</label>
+                    <input type="radio" value="Mar" id="Q1A3" name="Q1"/>
+                    <label for="Q1A3">MAR</label>
                 </div>
                 <div>
-                    <input type="radio" value="Apr" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">APR</label>
+                    <input type="radio" value="Apr" id="Q1A4" name="Q1"/>
+                    <label for="Q1A4">APR</label>
                 </div>
                 <div>
-                    <input type="radio" value="May" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">MAY</label>
+                    <input type="radio" value="May" id="Q1A5" name="Q1"/>
+                    <label for="Q1A5">MAY</label>
                 </div>
                 <div>
-                    <input type="radio" value="Jun" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">JUN</label>
+                    <input type="radio" value="Jun" id="Q1A6" name="Q1"/>
+                    <label for="Q1A6">JUN</label>
                 </div>
                 <div>
-                    <input type="radio" value="Jul" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">JUL</label>
+                    <input type="radio" value="Jul" id="Q1A7" name="Q1"/>
+                    <label for="Q1A7">JUL</label>
                 </div>
                 <div>
-                    <input type="radio" value="Aug" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">AUG</label>
+                    <input type="radio" value="Aug" id="Q1A8" name="Q1"/>
+                    <label for="Q1A8">AUG</label>
                 </div>
                 <div>
-                    <input type="radio" value="Sep" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">SEP</label>
+                    <input type="radio" value="Sep" id="Q1A9" name="Q1"/>
+                    <label for="Q1A9">SEP</label>
                 </div>
                 <div>
-                    <input type="radio" value="Oct" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">OCT</label>
+                    <input type="radio" value="Oct" id="Q1A10" name="Q1"/>
+                    <label for="Q1A10">OCT</label>
                 </div>
                 <div>
-                    <input type="radio" value="Nov" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">NOV</label>
+                    <input type="radio" value="Nov" id="Q1A11" name="Q1"/>
+                    <label for="Q1A11">NOV</label>
                 </div>
                 <div>
-                    <input type="radio" value="Dec" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">DEC</label>
+                    <input type="radio" value="Dec" id="Q1A12" name="Q1"/>
+                    <label for="Q1A12">DEC</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 57</center><h4>
+            <h5><center>Do you know your zodiac?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Answer</label>
+                    <input type="radio" value="Yes" id="Q2A1" name="Q2"/>
+                    <label for="Q2A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="No" id="Q2A2" name="Q2"/>
+                    <label for="Q2A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 58</center><h4>
+            <h5><center>If you do know your zodiac, what is it?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="IDK" id="Q3A1" name="Q3"/>
+                    <label for="Q3A1">I don't know my zodiac</label>
+                </div>
+                <div>
+                    <input type="radio" value="Virgo" id="Q3A2" name="Q3"/>
+                    <label for="Q3A2">Virgo</label>
+                </div>
+                <div>
+                    <input type="radio" value="Capricorn" id="Q3A3" name="Q3"/>
+                    <label for="Q3A3">Capricorn</label>
+                </div>
+                <div>
+                    <input type="radio" value="Cancer" id="Q3A4" name="Q3"/>
+                    <label for="Q3A4">Cancer</label>
+                </div>
+                <div>
+                    <input type="radio" value="Libra" id="Q3A5" name="Q3"/>
+                    <label for="Q3A5">Libra</label>
+                </div>
+                <div>
+                    <input type="radio" value="Pisces" id="Q3A6" name="Q3"/>
+                    <label for="Q3A6">Pisces</label>
+                </div>
+                <div>
+                    <input type="radio" value="Taurus" id="Q3A7" name="Q3"/>
+                    <label for="Q3A7">Taurus</label>
+                </div>
+                <div>
+                    <input type="radio" value="Aries" id="Q3A8" name="Q3"/>
+                    <label for="Q3A8">Aries</label>
+                </div>
+                <div>
+                    <input type="radio" value="Gemini" id="Q3A9" name="Q3"/>
+                    <label for="Q3A9">Gemini</label>
+                </div>
+                <div>
+                    <input type="radio" value="Leo" id="Q3A10" name="Q3"/>
+                    <label for="Q3A10">Leo</label>
+                </div>
+                <div>
+                    <input type="radio" value="Sag" id="Q3A11" name="Q3"/>
+                    <label for="Q3A11">Sagittarius</label>
+                </div>
+                <div>
+                    <input type="radio" value="Scorpio" id="Q3A12" name="Q3"/>
+                    <label for="Q3A12">Scorpio</label>
+                </div>
+                <div>
+                    <input type="radio" value="Aquarius" id="Q3A13" name="Q3"/>
+                    <label for="Q3A13">Aquarius</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 59</center><h4>
+            <h5><center>Do you feel connected to your zodiac sign?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Answer</label>
+                    <input type="radio" value="IDK" id="Q4A1" name="Q4"/>
+                    <label for="Q4A1">I don't know</label>
+                </div>
+                <div>
+                    <input type="radio" value="Not really" id="Q4A2" name="Q4"/>
+                    <label for="Q4A2">Not really</label>
+                </div>
+                <div>
+                    <input type="radio" value="Somewhat" id="Q4A3" name="Q4"/>
+                    <label for="Q4A3">Somewhat</label>
+                </div>
+                <div>
+                    <input type="radio" value="Yes" id="Q4A4" name="Q4"/>
+                    <label for="Q4A4">Yes</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
+            <h4><center>Question 60</center><h4>
             <h5><center>?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q5A1" name="Q5"/>
@@ -94,7 +158,7 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
+            <h4><center>Question 61</center><h4>
             <h5><center>?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q6A1" name="Q6"/>
@@ -102,7 +166,7 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
+            <h4><center>Question 62</center><h4>
             <h5><center>?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q7A1" name="Q7"/>
@@ -110,7 +174,7 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
+            <h4><center>Question 63</center><h4>
             <h5><center>?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q8A1" name="Q8"/>
@@ -118,7 +182,7 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
+            <h4><center>Question 64</center><h4>
             <h5><center>?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q9A1" name="Q9"/>
@@ -127,7 +191,7 @@
                 
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
+            <h4><center>Question 65</center><h4>
             <h5><center>?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q3A1" name="Q10"/>
