@@ -111,7 +111,7 @@
 
         <a href="index.php" class="button quit-button">Quit Survey</a>
         <center>
-        <a href=surveyPageOne.php class="button button1">Next Page</a>
+        <a href=surveyPage1.php class="button button1">Next Page</a>
     </center>
     </body><br>
 </html>
@@ -122,6 +122,6 @@
     }
 
     function nextPage() {
-        window.location.href = "surveyPageOne.php"; // Change to the next page in survey 
+        window.location.href = "surveyPage1.php"; // Change to the next page in survey 
     }
 </script>
