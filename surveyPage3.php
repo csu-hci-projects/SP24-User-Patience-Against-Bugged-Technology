@@ -110,20 +110,27 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 34</center><h4>
+            <h5><center>Do you prefer dawn or dusk?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Answer</label>
+                    <input type="radio" value="" id="Q34A1" name="Q34"/>
+                    <label for="Q34A1">Dusk</label>
                 </div>
-                
+                <div>
+                    <input type="radio" value="" id="Q34A2" name="Q34"/>
+                    <label for="Q34A2">Dawn</label>
+                </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 35</center><h4>
+            <h5><center>Do you sleep on the left or the right side of the bed?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="" id="Q35A1" name="Q35"/>
+                    <label for="Q35A1">Left</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q35A2" name="Q35"/>
+                    <label for="Q35A2">Right</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
