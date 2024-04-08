@@ -151,51 +151,99 @@
         </div>
         <div class="question-container">
             <h4><center>Question 60</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Have you ever read horoscopes?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Answert</label>
+                    <input type="radio" value="Yes" id="Q5A1" name="Q5"/>
+                    <label for="Q5A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="No" id="Q5A2" name="Q5"/>
+                    <label for="Q5A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 61</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Do you enjoy reading about zodiacs?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Answer</label>
+                    <input type="radio" value="Never" id="Q6A1" name="Q6"/>
+                    <label for="Q6A1">Never</label>
+                </div>
+                <div>
+                    <input type="radio" value="Sometimes" id="Q6A2" name="Q6"/>
+                    <label for="Q6A2">Sometimes</label>
+                </div>
+                <div>
+                    <input type="radio" value="Always" id="Q6A3" name="Q6"/>
+                    <label for="Q6A3">Always</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 62</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Do you feel like any horoscope you may have read was accurate?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Answer</label>
+                    <input type="radio" value="Never" id="Q7A1" name="Q7"/>
+                    <label for="Q7A1">I've never read my horoscopes</label>
+                </div>
+                <div>
+                    <input type="radio" value="Yes" id="Q7A2" name="Q7"/>
+                    <label for="Q7A2">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="No" id="Q7A3" name="Q7"/>
+                    <label for="Q7A3">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 63</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Do you believe in horoscopes?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q8A1" name="Q8"/>
-                    <label for="Q8A1">Answer</label>
+                    <input type="radio" value="Yes" id="Q8A1" name="Q8"/>
+                    <label for="Q8A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="No" id="Q8A2" name="Q8"/>
+                    <label for="Q8A2">No</label>
+                </div>
+                <div>
+                    <input type="radio" value="Maybe" id="Q8A3" name="Q8"/>
+                    <label for="Q8A3">Maybe</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 64</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>How much do you consider your zodiac sign?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Answer</label>
+                    <input type="radio" value="Never" id="Q9A1" name="Q9"/>
+                    <label for="Q9A1">Never</label>
+                </div>
+                <div>
+                    <input type="radio" value="Rarely" id="Q9A2" name="Q9"/>
+                    <label for="Q9A2">Rarely</label>
+                </div>
+                <div>
+                    <input type="radio" value="Sometimes" id="Q9A3" name="Q9"/>
+                    <label for="Q9A3">Sometimes</label>
+                </div>
+                <div>
+                    <input type="radio" value="Often" id="Q9A4" name="Q9"/>
+                    <label for="Q9A4">Often</label>
                 </div>
                 
         </div>
         <div class="question-container">
             <h4><center>Question 65</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>How do you feel about people who believe in the zodiac?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="Dislike" id="Q10A1" name="Q10"/>
+                    <label for="Q10A1">I don't like them</label>
+                </div>
+                <div>
+                    <input type="radio" value="None" id="Q10A2" name="Q10"/>
+                    <label for="Q10A2">I have no opinion on them</label>
+                </div>
+                <div>
+                    <input type="radio" value="Like" id="Q10A3" name="Q10"/>
+                    <label for="Q10A3">I like them</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
