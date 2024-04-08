@@ -10,84 +10,148 @@
     <body>
         <br><br><br><br>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 46</center><h4>
+            <h5><center>Do you like plants?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Answer</label>
+                    <input type="radio" value="" id="Q46A1" name="Q46"/>
+                    <label for="Q46A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q46A2" name="Q46"/>
+                    <label for="Q46A2">No</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q46A3" name="Q46"/>
+                    <label for="Q46A3">Somewhat</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 47</center><h4>
+            <h5><center>Do you like house plants?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Answer</label>
+                    <input type="radio" value="" id="Q47A1" name="Q47"/>
+                    <label for="Q47A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q47A2" name="Q47"/>
+                    <label for="Q47A2">No</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q47A3" name="Q47"/>
+                    <label for="Q47A3">Somewhat</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 48</center><h4>
+            <h5><center>Which type of plant would you choose from flower, cactus, or trees?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="" id="Q48A1" name="Q48"/>
+                    <label for="Q48A1">Cactus</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q48A2" name="Q48"/>
+                    <label for="Q48A2">Flower</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q48A3" name="Q48"/>
+                    <label for="Q48A3">Trees</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 49</center><h4>
+            <h5><center>Would you like to vacation somewhere tropical?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Answer</label>
+                    <input type="radio" value="" id="Q49A1" name="Q49"/>
+                    <label for="Q49A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q49A2" name="Q49"/>
+                    <label for="Q49A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 50</center><h4>
+            <h5><center>Would you rather live somewhere humid or dry?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Answert</label>
+                    <input type="radio" value="" id="Q50A1" name="Q50"/>
+                    <label for="Q50A1">Humid</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q50A2" name="Q50"/>
+                    <label for="Q50A2">Dry</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 51</center><h4>
+            <h5><center>Would you rather live in a hot, cold, or mild climate?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Answer</label>
+                    <input type="radio" value="" id="Q51A1" name="Q51"/>
+                    <label for="Q51A1">Hot</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q51A2" name="Q51"/>
+                    <label for="Q51A2">Cold</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q51A3" name="Q51"/>
+                    <label for="Q51A3">Mild</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 52</center><h4>
+            <h5><center>Would you prefer to be somewhere landlocked or coastal?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Answer</label>
+                    <input type="radio" value="" id="Q52A1" name="Q52"/>
+                    <label for="Q52A1">Landlocked</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q52A1" name="Q52"/>
+                    <label for="Q52A1">Coastal</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 53</center><h4>
+            <h5><center>Do you prefer oceans, lakes, or rivers?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q8A1" name="Q8"/>
-                    <label for="Q8A1">Answer</label>
+                    <input type="radio" value="" id="Q53A1" name="Q53"/>
+                    <label for="Q53A1">Oceans</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q53A2" name="Q53"/>
+                    <label for="Q53A2">Lakes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q53A3" name="Q53"/>
+                    <label for="Q53A3">Rivers</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 54</center><h4>
+            <h5><center>Do you prefer mountains, plains, or valleys?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Answer</label>
+                    <input type="radio" value="" id="Q54A1" name="Q54"/>
+                    <label for="Q54A1">Mountains</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q54A2" name="Q54"/>
+                    <label for="Q54A2">Plains</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q54A3" name="Q54"/>
+                    <label for="Q54A3">Valleys</label>
                 </div>
                 
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 55</center><h4>
+            <h5><center>Do you enjoy outdoor activities?(walking, surfing, etc)</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="" id="Q55A1" name="Q55"/>
+                    <label for="Q55A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q55A2" name="Q55"/>
+                    <label for="Q55A2">Noo</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
