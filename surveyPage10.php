@@ -35,10 +35,18 @@
         </div>
         <div class="question-container">
             <h4><center>Question 93</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>When you experience anger, do you feel hotter?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="Never" id="Q3A1" name="Q3"/>
+                    <label for="Q3A1">I've never noticed any temperature change</label>
+                </div>
+                <div>
+                    <input type="radio" value="Yes" id="Q3A2" name="Q3"/>
+                    <label for="Q3A2">I do get hotter</label>
+                </div>
+                <div>
+                    <input type="radio" value="No" id="Q3A3" name="Q3"/>
+                    <label for="Q3A3">I don't change temperatures</label>
                 </div>
         </div>
         <div class="question-container">
@@ -79,10 +87,14 @@
         </div>
         <div class="question-container">
             <h4><center>Question 97</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Would you say you get frustrated often?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Answer</label>
+                    <input type="radio" value="Yes" id="Q7A1" name="Q7"/>
+                    <label for="Q7A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="No" id="Q7A2" name="Q7"/>
+                    <label for="Q7A2">No</label>
                 </div>
         </div>
         <div class="question-container">
@@ -99,19 +111,44 @@
         </div>
         <div class="question-container">
             <h4><center>Question 99</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>How close are you to giving up?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Answer</label>
+                    <input type="radio" value="Never" id="Q9A1" name="Q9"/>
+                    <label for="Q9A1">I could do this all day</label>
                 </div>
+                <div>
+                    <input type="radio" value="Close" id="Q9A2" name="Q9"/>
+                    <label for="Q9A2">Please let this be the last page</label>
+                </div>
+                
                 
         </div>
         <div class="question-container">
             <h4><center>Question 100</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>If I told you this survey was never going to end, how would that make you feel?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="Angry" id="Q10A1" name="Q10"/>
+                    <label for="Q10A1">Angry</label>
+                </div>
+                <div>
+                    <input type="radio" value="Sad" id="Q10A2" name="Q10"/>
+                    <label for="Q10A2">Sad</label>
+                </div>
+                <div>
+                    <input type="radio" value="Overwhelmed" id="Q10A3" name="Q10"/>
+                    <label for="Q10A3">Overwhelmed</label>
+                </div>
+                <div>
+                    <input type="radio" value="Frustrated" id="Q10A4" name="Q10"/>
+                    <label for="Q10A4">Frustrated</label>
+                </div>
+                <div>
+                    <input type="radio" value="Happy" id="Q10A5" name="Q10"/>
+                    <label for="Q10A5">Happy</label>
+                </div>
+                <div>
+                    <input type="radio" value="Excited" id="Q10A6" name="Q10"/>
+                    <label for="Q10A6">Excited</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
@@ -124,7 +161,7 @@
     function quitSurvey() {
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
-    function nextPage() {
-        window.location.href = "next_page.php"; // Change to the next page in survey 
+    function completeSurvey() {
+        window.location.href = "complete_page.php"; // Change to the next page in survey 
     }
 </script>
