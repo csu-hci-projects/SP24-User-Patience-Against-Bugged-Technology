@@ -112,10 +112,22 @@
         </div>
         <div class="question-container">
             <h4><center>Question 42</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Which of the following do you find most enjoyment in?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Answer</label>
+                    <input type="radio" value="Books" id="Q7A1" name="Q7"/>
+                    <label for="Q7A1">Books</label>
+                </div>
+                <div>
+                    <input type="radio" value="Movies" id="Q7A2" name="Q7"/>
+                    <label for="Q7A2">Movies</label>
+                </div>
+                <div>
+                    <input type="radio" value="Video Games" id="Q7A3" name="Q7"/>
+                    <label for="Q7A3">Video Games</label>
+                </div>
+                <div>
+                    <input type="radio" value="TV" id="Q7A4" name="Q7"/>
+                    <label for="Q7A4">TV Shows</label>
                 </div>
         </div>
         <div class="question-container">
@@ -140,19 +152,35 @@
         </div>
         <div class="question-container">
             <h4><center>Question 44</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>If someone says a fact that is incorrect, how are you most likely to react?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Answer</label>
+                    <input type="radio" value="Correct" id="Q9A1" name="Q9"/>
+                    <label for="Q9A1">Correct them</label>
+                </div>
+                <div>
+                    <input type="radio" value="Silence" id="Q9A2" name="Q9"/>
+                    <label for="Q9A2">Stay silent</label>
+                </div>
+                <div>
+                    <input type="radio" value="Question" id="Q9A3" name="Q9"/>
+                    <label for="Q9A3">Question them</label>
                 </div>
                 
         </div>
         <div class="question-container">
             <h4><center>Question 45</center><h4>
-            <h5><center>?</center><h5>
+            <h5><center>Would you say you are good or bad at handling your own failures?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="Good" id="Q3A1" name="Q10"/>
+                    <label for="Q3A1">Good</label>
+                </div>
+                <div>
+                    <input type="radio" value="Bad" id="Q3A2" name="Q10"/>
+                    <label for="Q3A2">Bad</label>
+                </div>
+                <div>
+                    <input type="radio" value="Not Sure" id="Q3A3" name="Q10"/>
+                    <label for="Q3A3">Not Sure</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
