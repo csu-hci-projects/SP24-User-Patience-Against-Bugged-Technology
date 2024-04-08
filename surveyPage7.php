@@ -10,84 +10,132 @@
     <body>
         <br><br><br><br>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 66</center><h4>
+            <h5><center>You are standing on a train track in front of a lever, and a train is coming. On the current track, there are 5 workers who do not see the train, but on the other track accessed by pulling the lever, there is 1 worker. Do you pull the lever?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Answer</label>
+                    <input type="radio" value="" id="Q66A1" name="Q66"/>
+                    <label for="Q66A1">I pull the lever, killing 1 worker</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q66A2" name="Q66"/>
+                    <label for="Q66A2">I don't pull the lever and let the 5 die</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 67</center><h4>
+            <h5><center>Which do you think came first, the chicken or the egg?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Answer</label>
+                    <input type="radio" value="" id="Q67A1" name="Q67"/>
+                    <label for="Q67A1">Chicken</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q67A1" name="Q67"/>
+                    <label for="Q67A1">Egg</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 68</center><h4>
+            <h5><center>If someone made a clone of you, who had all of your memmories and your exact body, would you consider that clone "you", or would you consider the clone to be "someone else", so to speak?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="" id="Q68A1" name="Q68"/>
+                    <label for="Q68A1">If we ave the same memories/body then the clone is me</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q68A2" name="Q68"/>
+                    <label for="Q68A2">the clone is someone else</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 69</center><h4>
+            <h5><center>Do you think music is a universal language?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Answer</label>
+                    <input type="radio" value="" id="Q69A1" name="Q69"/>
+                    <label for="Q69A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q69A2" name="Q69"/>
+                    <label for="Q69A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 70</center><h4>
+            <h5><center>Do you think the world would be more peacefull if kids were in charge?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Answert</label>
+                    <input type="radio" value="" id="Q70A1" name="Q70"/>
+                    <label for="Q70A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q70A1" name="Q70"/>
+                    <label for="Q70A1">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 71</center><h4>
+            <h5><center>Do you think the world would be more peaceful if robots were in charge?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Answer</label>
+                    <input type="radio" value="" id="Q71A1" name="Q6"/>
+                    <label for="Q71A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q71A2" name="Q6"/>
+                    <label for="Q71A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 72</center><h4>
+            <h5><center>If it was possible to live forever, would you want to?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Answer</label>
+                    <input type="radio" value="" id="Q72A1" name="Q72"/>
+                    <label for="Q72A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q72A2" name="Q72"/>
+                    <label for="Q72A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 73</center><h4>
+            <h5><center>Can a person be happy and sad at the same time?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q8A1" name="Q8"/>
-                    <label for="Q8A1">Answer</label>
+                    <input type="radio" value="" id="Q73A1" name="Q73"/>
+                    <label for="Q73A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q73A2" name="Q73"/>
+                    <label for="Q73A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 74</center><h4>
+            <h5><center>Do you think humanity is inherantly good or bad?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Answer</label>
+                    <input type="radio" value="" id="Q74A1" name="Q74"/>
+                    <label for="Q74A1">Good</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q74A2" name="Q74"/>
+                    <label for="Q74A2">Bad</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q74A3" name="Q74"/>
+                    <label for="Q74A3">Neither</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q74A4" name="Q74"/>
+                    <label for="Q74A4">Both</label>
                 </div>
                 
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 75</center><h4>
+            <h5><center>Would life be worthwhile if you never experienced pain?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Answer</label>
+                    <input type="radio" value="" id="Q75A1" name="Q75"/>
+                    <label for="Q75A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q75A2" name="Q75"/>
+                    <label for="Q75A2">No</label>
                 </div>
         </div>
         <a href="index.php" class="button quit-button">Quit Survey</a>
