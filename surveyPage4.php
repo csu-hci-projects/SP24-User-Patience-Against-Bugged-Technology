@@ -21,7 +21,6 @@
                     <label for="Q1A2">Extroverted</label>
                 </div>
                 <div>
-                    <label for="Q1A3">Ambiverted</label>
                     <input type="radio" value="" id="Q1A3" name="Q1"/>
                     <label for="Q1A3">Ambiverted</label>
                 </div>
