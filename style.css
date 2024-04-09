@@ -93,3 +93,8 @@ li a:hover {
 .bottom-space {
     height: 50px; 
 }
+
+.question-container input[type="text"] {
+    margin: 0 auto; 
+    display: block; 
+}
