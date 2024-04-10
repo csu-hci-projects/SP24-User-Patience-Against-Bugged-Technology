@@ -149,7 +149,7 @@
                     <label for="Q13A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" onmoouseover="shoowQuestionText()" onmouseout="hideQuestionText()">
             <h4><center>Question 14</center><h4>
             <h5><center>Do you ever eat dessert for breakfast?</center><h5>
                 <div>
@@ -174,6 +174,23 @@
 </html>
 
 <script>
+    function showQuestionText() {
+            var h4Element = document.querySelector('.question-container h4');
+            var h5Element = document.querySelector('.question-container h5');
+            if (h4Element && h5Element) {
+                h4Element.style.display = 'block';
+                h5Element.style.display = 'block';
+            }
+        }
+
+        function hideQuestionText() {
+            var h4Element = document.querySelector('.question-container h4');
+            var h5Element = document.querySelector('.question-container h5');
+            if (h4Element && h5Element) {
+                h4Element.style.display = 'none';
+                h5Element.style.display = 'none';
+            }
+        }
     function quitSurvey() {
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
