@@ -10,8 +10,8 @@
     <body>
         <br><br><br><br>
         <div class="question-container">
-            <h4><center>Question 5</center><h4>
-            <h5><center>Do you use social media?</center><h5>
+            <h4><center>Question 5</center></h4>
+            <h5><center>Do you use social media?</center></h5>
                 <div>
                     <input type="radio" value="Yes social" id="Q5A1" name="Q5"/>
                     <label for="Q5A1">Yes</label>
@@ -21,8 +21,8 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question 6</center><h4>
-            <h5><center>When you sleep, do you run hot or run cold?</center><h5>
+            <h4><center>Question 6</center></h4>
+            <h5><center>When you sleep, do you run hot or run cold?</center></h5>
                 <div>
                     <input type="radio" value="Yes social" id="Q6A1" name="Q6"/>
                     <label for="Q6A1">Hot</label>
@@ -32,8 +32,8 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question 7</center><h4>
-            <h5><center>Do you prefer waking up early or going to sleep late?</center><h5>
+            <h4><center>Question 7</center></h4>
+            <h5><center>Do you prefer waking up early or going to sleep late?</center></h5>
                 <div>
                     <input type="radio" value="Female" id="Q7A1" name="Q7"/>
                     <label for="Q7A1">Early</label>
@@ -54,8 +54,8 @@
         </div>
 
         <div class="question-container">
-            <h4><center>Question 8</center><h4>
-            <h5><center>How conscientiousness are you about your diet? </center><h5>
+            <h4><center>Question 8</center></h4>
+            <h5><center>How conscientiousness are you about your diet? </center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">I don’t care</label>
@@ -75,8 +75,8 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question 9</center><h4>
-            <h5><center>How often do you make an effort to exercise?</center><h5>
+            <h4><center>Question 9</center></h4>
+            <h5><center>How often do you make an effort to exercise?</center></h5>
                 <div>
                     <input type="radio" value="Low" id="Q9A1" name="Q9"/>
                     <label for="Q9A1">Never</label>
@@ -92,8 +92,8 @@
                     <div class="bottom-space"></div>
         </div>
         <div class="question-container">
-            <h4><center>Question 10</center><h4>
-            <h5><center>Do you go to therapy? </center><h5>
+            <h4><center>Question 10</center></h4>
+            <h5><center>Do you go to therapy? </center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q10A1" name="Q10"/>
                     <label for="Q10A1">Yes</label>
@@ -105,8 +105,8 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question 11</center><h4>
-            <h5><center>When you get sick, do you take sick days?</center><h5>
+            <h4><center>Question 11</center></h4>
+            <h5><center>When you get sick, do you take sick days?</center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q11A1" name="Q11"/>
                     <label for="Q11A1">Always</label>
@@ -123,8 +123,8 @@
         </div>
 
         <div class="question-container">
-            <h4><center>Question 12</center><h4>
-            <h5><center>Do you regularly go to the dentist?</center><h5>
+            <h4><center>Question 12</center></h4>
+            <h5><center>Do you regularly go to the dentist?</center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q12A1" name="Q12"/>
                     <label for="Q12A1">Yes</label>
@@ -137,8 +137,8 @@
                 <div class="bottom-space"></div>
         </div>
         <div class="question-container">
-            <h4><center>Question 13</center><h4>
-            <h5><center>Do you regularly see a general care doctor?</center><h5>
+            <h4><center>Question 13</center></h4>
+            <h5><center>Do you regularly see a general care doctor?</center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q13A1" name="Q13"/>
                     <label for="Q13A1">Yes</label>
@@ -149,9 +149,9 @@
                     <label for="Q13A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
-            <h4><center>Question 14</center><h4>
-            <h5><center>Do you ever eat dessert for breakfast?</center><h5>
+        <div id="question14" class="question-container" onmouseover="showQuestionText('question14')" onmouseout="hideQuestionText("question14")">
+        <h4><center>Question 14</center></h4>
+            <h5><center>Do you ever eat dessert for breakfast?</center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q14A1" name="Q14"/>
                     <label for="Q14A1">All the time</label>
@@ -174,23 +174,25 @@
 </html>
 
 <script>
-        // function showQuestionText() {
-        //     var h4Element = document.querySelector('.question-container h4');
-        //     var h5Element = document.querySelector('.question-container h5');
-        //     if (h4Element && h5Element) {
-        //         h4Element.style.display = 'block';
-        //         h5Element.style.display = 'block';
-        //     }
-        // }
+        function showQuestionText(containerId) {
+            var container = document.getElementById(containerId);
+            var h4Element = container.querySelector('h4');
+            var h5Element = container.querySelector('h5');
+            if (h4Element && h5Element) {
+                h4Element.style.display = 'block';
+                h5Element.style.display = 'block';
+            }
+        }
 
-        // function hideQuestionText() {
-        //     var h4Element = document.querySelector('.question-container h4');
-        //     var h5Element = document.querySelector('.question-container h5');
-        //     if (h4Element && h5Element) {
-        //         h4Element.style.display = 'none';
-        //         h5Element.style.display = 'none';
-        //     }
-        // }
+        function hideQuestionText(containerId) {
+            var container = document.getElementById(containerId);
+            var h4Element = container.querySelector('h4');
+            var h5Element = container.querySelector('h5');
+            if (h4Element && h5Element) {
+                h4Element.style.display = 'none';
+                h5Element.style.display = 'none';
+            }
+        }
     function quitSurvey() {
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
