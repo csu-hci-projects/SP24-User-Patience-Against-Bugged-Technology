@@ -46,27 +46,39 @@
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 79</center><h4>
+            <h5><center>Do you use Snapchat?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Answer</label>
+                    <label for="Q4A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q4A2" name="Q4"/>
+                    <label for="Q4A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 80</center><h4>
+            <h5><center>Do you use TikTok?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Answert</label>
+                    <label for="Q5A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q5A2" name="Q5"/>
+                    <label for="Q5A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 81</center><h4>
+            <h5><center>Do you use Pinterest?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Answer</label>
+                    <label for="Q6A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q6A2" name="Q6"/>
+                    <label for="Q6A2">No</label>
                 </div>
         </div>
         <div class="question-container">
