@@ -6,7 +6,7 @@ footer{
 }
 html * {
     font-family: Arial, Helvetica, sans-serif;
-    color:rgb(27, 11, 93)
+    color:rgb(27, 11, 93);
     
 }
 h4{
@@ -97,4 +97,12 @@ li a:hover {
 .question-container input[type="text"] {
     margin: 0 auto; 
     display: block; 
+}
+
+.hover-heading span {
+    color: white; /* Set default color to white */
+}
+
+.hover-heading:hover span{
+    color:rgb(27, 11, 93)
 }

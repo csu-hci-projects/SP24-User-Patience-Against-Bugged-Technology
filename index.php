@@ -30,7 +30,7 @@
     </body><br>
     <footer> <center>
         Contact Us: <br>
-        Github: ~~change~~<br>
+        Github: ~~link to this page~~<br>
         Email: ~~~one/all of our emails~~~<br>
         Course Website for CS464
     <center> </footer>
