@@ -75,28 +75,28 @@
         <div class="question-container">
             <h5><center>Which of the following strategies would you say you attempted?</center><h5>
                 <div>
-                    <input type="checkbox" value="Slow Clicks" id="AS6A1" name="AS6"/>
-                    <label for="AS6A1">Slowing down your clicking</label>
+                    <input type="checkbox" value="Slow Clicks" id="AS7A1" name="AS7"/>
+                    <label for="AS7A1">Slowing down your clicking</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Multiple Clicks" id="AS6A2" name="AS6"/>
-                    <label for="AS6A2">Clicking multiple times</label>
+                    <input type="checkbox" value="Multiple Clicks" id="AS7A2" name="AS7"/>
+                    <label for="AS7A2">Clicking multiple times</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Alert" id="AS6A2" name="AS6"/>
-                    <label for="AS6A2">Alerting proctor of the issue</label>
+                    <input type="checkbox" value="Alert" id="AS7A2" name="AS7"/>
+                    <label for="AS7A2">Alerting proctor of the issue</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Reload" id="AS6A2" name="AS6"/>
-                    <label for="AS6A2">Refreshing/Reloading the page</label>
+                    <input type="checkbox" value="Reload" id="AS7A2" name="AS7"/>
+                    <label for="AS7A2">Refreshing/Reloading the page</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Other" id="AS6A2" name="AS6"/>
-                    <label for="AS6A2">Other</label>
+                    <input type="checkbox" value="Other" id="AS7A2" name="AS7"/>
+                    <label for="AS7A2">Other</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="No Attempt" id="AS6A2" name="AS6"/>
-                    <label for="AS6A2">I did not attempt to troubleshoot</label>
+                    <input type="checkbox" value="No Attempt" id="AS7A2" name="AS7"/>
+                    <label for="AS7A2">I did not attempt to troubleshoot</label>
                 </div>
         </div>
 
