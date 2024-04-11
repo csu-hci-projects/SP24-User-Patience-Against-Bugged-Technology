@@ -10,27 +10,39 @@
     <body>
         <br><br><br><br>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 76</center><h4>
+            <h5><center>Do you use social media?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Answer</label>
+                    <label for="Q1A1">Yes</label>
                 </div>
-        </div>
-        <div class="question-container">
-            <h4><center>Question</center><h4>
-            <h5><center>?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Answer</label>
+                    <input type="radio" value="" id="Q1A2" name="Q1"/>
+                    <label for="Q1A2">No</label>
                 </div>
         </div>
         <div class="question-container">
-            <h4><center>Question </center><h4>
-            <h5><center>?</center><h5>
+            <h4><center>Question 77</center><h4>
+            <h5><center>Do you use Instagram?</center><h5>
+            <div>
+                    <input type="radio" value="" id="Q2A1" name="Q2"/>
+                    <label for="Q2A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q2A2" name="Q2"/>
+                    <label for="Q2A2">No</label>
+                </div>
+        </div>
+        <div class="question-container">
+            <h4><center>Question 78</center><h4>
+            <h5><center>Do you use Facebook?</center><h5>
                 <div>
                     <input type="radio" value="" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Answer</label>
+                    <label for="Q3A1">Yes</label>
+                </div>
+                <div>
+                    <input type="radio" value="" id="Q3A2" name="Q3"/>
+                    <label for="Q3A2">No</label>
                 </div>
         </div>
         <div class="question-container">
