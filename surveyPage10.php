@@ -151,7 +151,7 @@
                     <label for="Q10A6">Excited</label>
                 </div>
         </div>
-        <a href="afterSurvey.php" class="button quit-button">Quit Survey</a>
+        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
         <center>
         <a href="afterSurvey.php" class="button button1">Complete Survey</a>
     </center>

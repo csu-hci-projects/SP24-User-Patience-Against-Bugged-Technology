@@ -90,7 +90,7 @@
                     <label for="Q3A1">Answer</label>
                 </div>
         </div>
-        <a href="afterSurvey.php" class="button quit-button">Quit Survey</a>
+        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
         <center>
         <a href="surveyPage9.php" class="button button1">Next Page</a>
     </center>
