@@ -104,7 +104,7 @@
 
 
         <center>
-        <a class="button submit-button" onclick="submit()">Submit</a>
+        <a class="button button1" onclick="submit()" href="index.php">Submit</a>
     </center>
     </body><br>
 </html>
