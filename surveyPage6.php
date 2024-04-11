@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang ="en" >
     <head>
         <link rel="stylesheet" type="text/css" href="style.css">
@@ -259,4 +259,4 @@
     function nextPage() {
         window.location.href =  "surveyPage7.php"; // Change to the next page in survey 
     }
-</script>
+</script> -->

@@ -9,7 +9,7 @@
     </head>
     <body>
         <br><br><br><br>
-        <div class="question-container">
+        <div id="question1" class="question-container">
             <h4><center>Question 1</center><h4>
             <h5><center>Please select your age range:</center><h5>
                 <div>
@@ -26,7 +26,7 @@
                     <label for="Q1A4">26-30</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div id="question2" class="question-container">
             <h4><center>Question 2</center><h4>
             <h5><center>What gender do you identify as?</center><h5>
                 <div>
@@ -52,7 +52,7 @@
                 </div>
         </div>
 
-        <div class="question-container">
+        <div id="question3" class="question-container">
             <h4><center>Question 3</center><h4>
             <h5><center>Please specify your ethnicity</center><h5>
                 <div>
@@ -93,7 +93,7 @@
                 <label for="Q3A9">Prefer not to say</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div id="question4" class="question-container">
             <h4><center>Question 4</center><h4>
             <h5><center>How would you rate your proficiency with technology?</center><h5>
                 <div>

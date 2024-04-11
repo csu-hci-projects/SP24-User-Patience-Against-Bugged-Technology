@@ -9,7 +9,7 @@
     </head>
     <body>
         <br><br><br><br>
-        <div class="question-container">
+        <div id="question5" class="question-container">
             <h4><center>Question 5</center></h4>
             <h5><center>Do you use social media?</center></h5>
                 <div>
@@ -20,7 +20,7 @@
                     <label for="Q5A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div id="question6" class="question-container">
             <h4><center>Question 6</center></h4>
             <h5><center>When you sleep, do you run hot or run cold?</center></h5>
                 <div>
@@ -31,7 +31,7 @@
                     <label for="Q6A2">Cold</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div id="question7" class="question-container">
             <h4><center>Question 7</center></h4>
             <h5><center>Do you prefer waking up early or going to sleep late?</center></h5>
                 <div>
@@ -53,7 +53,7 @@
                 </div>
         </div>
 
-        <div class="question-container">
+        <div id="question8" class="question-container">
             <h4><center>Question 8</center></h4>
             <h5><center>How conscientiousness are you about your diet? </center></h5>
                 <div>
@@ -74,7 +74,7 @@
                     <label for="Q8A4">I’m very aware of my diet</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div id="question9" class="question-container">
             <h4><center>Question 9</center></h4>
             <h5><center>How often do you make an effort to exercise?</center></h5>
                 <div>
@@ -91,7 +91,7 @@
                     <label for="Q9A4">Daily</label>
                     <div class="bottom-space"></div>
         </div>
-        <div class="question-container">
+        <div id="question10" class="question-container">
             <h4><center>Question 10</center></h4>
             <h5><center>Do you go to therapy? </center></h5>
                 <div>
@@ -104,7 +104,7 @@
                     <label for="Q10A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div id="question11" class="question-container">
             <h4><center>Question 11</center></h4>
             <h5><center>When you get sick, do you take sick days?</center></h5>
                 <div>
@@ -122,7 +122,7 @@
                 </div>
         </div>
 
-        <div class="question-container">
+        <div id="question12" class="question-container">
             <h4><center>Question 12</center></h4>
             <h5><center>Do you regularly go to the dentist?</center></h5>
                 <div>
@@ -136,7 +136,7 @@
                 </div>
                 <div class="bottom-space"></div>
         </div>
-        <div class="question-container">
+        <div id="question13" class="question-container">
             <h4><center>Question 13</center></h4>
             <h5><center>Do you regularly see a general care doctor?</center></h5>
                 <div>
@@ -149,9 +149,9 @@
                     <label for="Q13A2">No</label>
                 </div>
         </div>
-        <div id="question14" class="question-container" onmouseover="showQuestionText('question14')" onmouseout="hideQuestionText("question14")">
-        <h4><center>Question 14</center></h4>
-            <h5><center>Do you ever eat dessert for breakfast?</center></h5>
+        <div id="question14" class="question-container" onmouseover="showQuestionText('q14_h4', 'q14_h5')" onmouseout="hideQuestionText('q14_h4', 'q14_h5')">
+        <h4 id="q14_h4"><center>Question 14</center></h4>
+            <h5 id="q14_h4"> <center>Do you ever eat dessert for breakfast?</center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q14A1" name="Q14"/>
                     <label for="Q14A1">All the time</label>
@@ -174,30 +174,28 @@
 </html>
 
 <script>
-        function showQuestionText(containerId) {
-            var container = document.getElementById(containerId);
-            var h4Element = container.querySelector('h4');
-            var h5Element = container.querySelector('h5');
+        function showQuestionText(h4Element, h5Element) {
+            var h4Element = document.getElementById(h4Id);
+            var h5Element = document.getElementById(h5Id);
             if (h4Element && h5Element) {
                 h4Element.style.display = 'block';
                 h5Element.style.display = 'block';
             }
-        }
+    }
 
-        function hideQuestionText(containerId) {
-            var container = document.getElementById(containerId);
-            var h4Element = container.querySelector('h4');
-            var h5Element = container.querySelector('h5');
+    function hideQuestionText(h4Element, h5Element) {
+        var h4Element = document.getElementById(h4Id);
+            var h5Element = document.getElementById(h5Id);
             if (h4Element && h5Element) {
                 h4Element.style.display = 'none';
                 h5Element.style.display = 'none';
             }
-        }
+    }
     function quitSurvey() {
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
 
-    function nextPage() {
-        window.location.href = "surveyPage2.php"; // Change to the next page in survey 
-    }
+    // function nextPage() {
+    //     window.location.href = "surveyPage2.php"; // Change to the next page in survey 
+    // }
 </script>
