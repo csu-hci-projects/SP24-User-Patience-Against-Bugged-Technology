@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -153,16 +155,16 @@
             <h4><center>Question 14</center><h4>
             <h5><center>Do you ever eat dessert for breakfast?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q14A1" name="Q14"/>
+                    <input type="radio" value="All the time" id="Q14A1" name="Q14"/>
                     <label for="Q14A1">All the time</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q14A2" name="Q14"/>
+                    <input type="radio" value="Sometimes" id="Q14A2" name="Q14"/>
                     <label for="Q14A2">Sometimes</label>
                 </div>
                 <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q14A3" name="Q14"/>
+                    <input type="radio" value="Never" id="Q14A3" name="Q14"/>
                     <label for="Q14A3">Never</label>
                 </div>
         </div>
@@ -172,13 +174,3 @@
     </center>
     </body><br>
 </html>
-
-<script>
-    function quitSurvey() {
-        window.location.href = "afterSurvey.php";
-    }
-
-    function nextPage() {
-        window.location.href = "surveyPage2.php"; // Change to the next page in survey 
-    }
-</script>
