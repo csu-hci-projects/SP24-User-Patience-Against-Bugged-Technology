@@ -175,3 +175,13 @@
     </body><br>
 </html>
 
+<script>
+    function quitSurvey() {
+        window.location.href = "index.php"; // Will be changed but for now main page 
+    }
+
+    function nextPage() {
+        window.location.href = "surveyPage1.php"; // Change to the next page in survey 
+    }
+</script>
+
