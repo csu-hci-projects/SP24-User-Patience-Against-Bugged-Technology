@@ -79,7 +79,7 @@
                     <input type="text" id="Q95A1" name="Q95"/>
                 </div>
         </div>
-        <a href="index.php" class="button quit-button">Quit Survey</a>
+        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
         <center>
         <a href="surveyPage10.php" class="button button1">Next Page</a>
     </center>
@@ -87,7 +87,7 @@
 </html>
 <script>
     function quitSurvey() {
-        window.location.href = "index.php"; // Will be changed but for now main page 
+        window.location.href = "afterSurvey.php"; 
     }
     function nextPage() {
         window.location.href = "surveyPage10.php"; // Change to the next page in survey 

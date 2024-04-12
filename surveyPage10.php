@@ -151,17 +151,17 @@
                     <label for="Q10A6">Excited</label>
                 </div>
         </div>
-        <a href="index.php" class="button quit-button">Quit Survey</a>
+        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
         <center>
-        <a href=# class="button button1">Complete Survey</a>
+        <a href="afterSurvey.php" class="button button1">Complete Survey</a>
     </center>
     </body><br>
 </html>
 <script>
     function quitSurvey() {
-        window.location.href = "index.php"; // Will be changed but for now main page 
+        window.location.href = "afterSurvey.php"; 
     }
     function completeSurvey() {
-        window.location.href = "complete_page.php"; // Change to the next page in survey 
+        window.location.href = "afterSurvey.php"; 
     }
 </script>
