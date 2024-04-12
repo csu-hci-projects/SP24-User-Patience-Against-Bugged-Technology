@@ -106,7 +106,7 @@
                     <label for="Q10A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question11">
             <h4><center>Question 11</center><h4>
             <h5><center>When you get sick, do you take sick days?</center><h5>
                 <div>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="bottom-space"></div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question13">
             <h4><center>Question 13</center><h4>
             <h5><center>Do you regularly see a general care doctor?</center><h5>
                 <div>
