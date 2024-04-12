@@ -138,7 +138,7 @@
                     <label for="Q75A2">No</label>
                 </div>
         </div>
-        <a href="index.php" class="button quit-button">Quit Survey</a>
+        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
         <center>
         <a href="surveyPage8.php" class="button button1">Next Page</a>
     </center>
@@ -146,7 +146,7 @@
 </html>
 <script>
     function quitSurvey() {
-        window.location.href = "index.php"; // Will be changed but for now main page 
+        window.location.href = "afterSurvey.php"; 
     }
     function nextPage() {
         window.location.href = "surveyPage8.php"; // Change to the next page in survey 

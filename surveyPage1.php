@@ -168,9 +168,10 @@
                     <label for="Q14A3">Never</label>
                 </div>
         </div>
-        <a href="index.php" class="button quit-button">Quit Survey</a>
+        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
         <center>
         <a href="surveyPage2.php" class="button button1">Next Page</a>
     </center>
     </body><br>
 </html>
+
