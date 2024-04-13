@@ -106,7 +106,7 @@
                     <label for="Q10A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question11">
             <h4><center>Question 11</center><h4>
             <h5><center>When you get sick, do you take sick days?</center><h5>
                 <div>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="bottom-space"></div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question13">
             <h4><center>Question 13</center><h4>
             <h5><center>Do you regularly see a general care doctor?</center><h5>
                 <div>
@@ -155,16 +155,16 @@
             <h4><center>Question 14</center><h4>
             <h5><center>Do you ever eat dessert for breakfast?</center><h5>
                 <div>
-                    <input type="radio" value="Caucasian" id="Q14A1" name="Q14"/>
+                    <input type="radio" value="All the time" id="Q14A1" name="Q14"/>
                     <label for="Q14A1">All the time</label>
                 </div>
 
                 <div>
-                    <input type="radio" value="African-American" id="Q14A2" name="Q14"/>
+                    <input type="radio" value="Sometimes" id="Q14A2" name="Q14"/>
                     <label for="Q14A2">Sometimes</label>
                 </div>
                 <div>
-                    <input type="radio" value="Latino or Hispanic" id="Q14A3" name="Q14"/>
+                    <input type="radio" value="Never" id="Q14A3" name="Q14"/>
                     <label for="Q14A3">Never</label>
                 </div>
         </div>
