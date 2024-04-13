@@ -20,3 +20,11 @@ $(document).ready(function(){
         }
     });
 });
+
+$(document).ready(function(){
+    $('.question-container input[type="radio"]').change(function(){
+        if (($(this).attr('id') === "Q5A1") && $(this).prop('checked') ) {
+            $('#Q5A1').prop('checked', false);
+        }
+    });
+});
