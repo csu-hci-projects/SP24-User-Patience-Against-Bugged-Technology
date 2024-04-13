@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -93,7 +95,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 10</center><h4>
-            <h5><center>Do you go to therapy? </center><h5>
+            <h5 class ="hover-heading" id= "Q10"><center><span id = "Q10HIDE">Do you go to therapy? </span></center></h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q10A1" name="Q10"/>
                     <label for="Q10A1">Yes</label>
@@ -175,10 +177,11 @@
 
 <script>
     function quitSurvey() {
-        window.location.href = "afterSurvey.php";
+        window.location.href = "index.php"; // Will be changed but for now main page 
     }
 
     function nextPage() {
-        window.location.href = "surveyPage2.php"; // Change to the next page in survey 
+        window.location.href = "surveyPage1.php"; // Change to the next page in survey 
     }
 </script>
+
