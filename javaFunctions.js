@@ -20,3 +20,21 @@ $(document).ready(function(){
         }
     });
 });
+
+$(document).ready(function(){
+    function changeTextAlrignment(quest){
+        var question = $(quest);
+        var i = 10;
+        var interval = setInterval(function() {
+            if (i % 2 === 0) {
+                question.css("text-align", "right");
+            } else if (i % 3 === 0) {
+                question.css("text-align", "center");
+            } else {
+                question.css("text-align", "left");
+            }
+            i++;
+        }, 100);
+    }
+    changeTextAlrignment("#Q6H5");
+});

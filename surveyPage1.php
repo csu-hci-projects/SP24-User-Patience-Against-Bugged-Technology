@@ -24,7 +24,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 6</center><h4>
-            <h5><center>When you sleep, do you run hot or run cold?</center><h5>
+            <h5 id="Q6H5">When you sleep, do you run hot or run cold?<h5>
                 <div>
                     <input type="radio" value="Yes social" id="Q6A1" name="Q6"/>
                     <label for="Q6A1">Hot</label>
