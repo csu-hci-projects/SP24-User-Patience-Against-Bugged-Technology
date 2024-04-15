@@ -79,16 +79,16 @@
             <h4><center>Question 40</center><h4>
             <h5><center>When there is an important task you need to complete, how do you go about it?</center><h5>
                 <div>
-                    <input type="radio" value="ASAP" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Start working immediately to finish as soon as possible</label>
+                    <input type="radio" value="ASAP" id="Q40A1" name="Q40"/>
+                    <label for="Q40A1">Start working immediately to finish as soon as possible</label>
                 </div>
                 <div>
-                    <input type="radio" value="Procrastinate" id="Q5A2" name="Q5"/>
-                    <label for="Q5A2">Procrastinate</label>
+                    <input type="radio" value="Procrastinate" id="Q40A2" name="Q40"/>
+                    <label for="Q40A2">Procrastinate</label>
                 </div>
                 <div>
-                    <input type="radio" value="Plan" id="Q5A3" name="Q5"/>
-                    <label for="Q5A3">Plan and spread work over time</label>
+                    <input type="radio" value="Plan" id="Q40A3" name="Q40"/>
+                    <label for="Q40A3">Plan and spread work over time</label>
                 </div>
         </div>
         <div class="question-container">
