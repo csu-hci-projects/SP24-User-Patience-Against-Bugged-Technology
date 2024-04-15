@@ -107,7 +107,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 74</center><h4>
-            <h5><center>Do you think humanity is inherantly good or bad?</center><h5>
+            <h5 class = "hover-heading"><center><span>Do you think humanity is inherantly good or bad?</span></center><h5>
                 <div>
                     <input type="radio" value="Good" id="Q74A1" name="Q74"/>
                     <label for="Q74A1">Good</label>
@@ -128,7 +128,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 75</center><h4>
-            <h5><center>Would life be worthwhile if you never experienced pain?</center><h5>
+            <h5 class = "hover-heading"><center><span>Would life be worthwhile if you never experienced pain?</span></center><h5>
                 <div>
                     <input type="radio" value="Yes" id="Q75A1" name="Q75"/>
                     <label for="Q75A1">Yes</label>
