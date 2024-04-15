@@ -75,7 +75,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 58</center><h4>
-            <h5><center>If you do know your zodiac, what is it?</center><h5>
+            <h5 class = "hover-heading"><center><span>If you do know your zodiac, what is it?</span></center><h5>
                 <div>
                     <input type="radio" value="IDK" id="Q3A1" name="Q3"/>
                     <label for="Q3A1">I don't know my zodiac</label>
