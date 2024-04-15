@@ -18,7 +18,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 87</center><h4>
-            <h5><center>What is your favorite animal?</center><h5>
+            <h5 class = "hover-heading"><center><span>What is your favorite animal?</span></center><h5>
                 <div>
                     <input type="text" id="Q87A1" name="Q87"/>
                 </div>
