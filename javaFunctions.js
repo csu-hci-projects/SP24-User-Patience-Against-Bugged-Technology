@@ -6,6 +6,10 @@ $(document).ready(function(){
         && ($(this).val() === "All the time" || $(this).val() === "Sometimes")) {
             $('#Q14A3').prop('checked', true);
         }
+        if (($(this).attr('id') === "Q17A1" || $(this).attr('id') === "Q17A2" || $(this).attr('id') === "Q17A4") 
+        && $(this).prop('checked')) {
+            $('#Q17A3').prop('checked', true);
+        }
     });
 });
 
