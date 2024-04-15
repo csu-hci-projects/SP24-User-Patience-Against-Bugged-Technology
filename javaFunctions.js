@@ -71,6 +71,16 @@ $(document).ready(function(){
         && $(this).prop('checked')) {
             $('#Q79A1').prop('checked', true);
         }
+
+        if (($(this).attr('id') === "Q91A2") 
+        && $(this).prop('checked')) {
+            $('#Q91A1').prop('checked', true);
+        }
+
+        if (($(this).attr('id') === "Q94A2") 
+        && $(this).prop('checked')) {
+            $('#Q94A1').prop('checked', true);
+        }
     });
 });
 
