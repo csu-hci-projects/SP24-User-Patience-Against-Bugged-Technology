@@ -11,7 +11,7 @@
         <br><br><br><br>
         <div class="question-container">
             <h4><center>Question 76</center><h4>
-            <h5><center>Do you use social media?</center><h5>
+            <h5 class = "hover-heading"><center><span>Do you use social media?</span></center><h5>
                 <div>
                     <input type="radio" value="" id="Q1A1" name="Q1"/>
                     <label for="Q1A1">Yes</label>
@@ -95,7 +95,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 83</center><h4>
-            <h5><center>Do you use Youtube? </center><h5>
+            <h5 class = "hover-heading"><center><span>Do you use Youtube?</span> </center><h5>
                 <div>
                     <input type="radio" value="" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">Yes</label>
