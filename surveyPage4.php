@@ -131,7 +131,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 43</center><h4>
-            <h5><center>When something you own breaks, what is the first thing you do?</center><h5>
+            <h5 class = "hover-heading"><center><span>When something you own breaks, what is the first thing you do?</span></center><h5>
                 <div>
                     <input type="radio" value="DIY" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">Try to fix it myself</label>
