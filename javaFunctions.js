@@ -52,14 +52,14 @@ $(document).ready(function(){
             $('#Q59A3').prop('checked', true);
         }
 
+        if (($(this).attr('id') === "Q67A2") 
+        && $(this).prop('checked')) {
+            $('#Q67A1').prop('checked', true);
+        }
+
         if (($(this).attr('id') === "Q72A2") 
         && $(this).prop('checked')) {
             $('#Q72A1').prop('checked', true);
-        }
-
-        if (($(this).attr('id') === "Q67A1") 
-        && $(this).prop('checked')) {
-            $('#Q67A2').prop('checked', true);
         }
     });
 });

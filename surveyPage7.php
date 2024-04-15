@@ -31,7 +31,7 @@
                     <label for="Q67A1">Chicken</label>
                 </div>
                 <div>
-                    <input type="radio" value="Egg" id="Q67A1" name="Q67"/>
+                    <input type="radio" value="Egg" id="Q67A2" name="Q67"/>
                     <label for="Q67A1">Egg</label>
                 </div>
         </div>
