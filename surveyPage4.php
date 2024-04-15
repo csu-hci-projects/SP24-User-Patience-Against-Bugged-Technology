@@ -51,7 +51,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 39</center><h4>
-            <h5><center>Which of the folowing would you say you are most scared of?</center><h5>
+            <h5 class = "hover-heading"><center><span>Which of the folowing would you say you are most scared of?</span></center><h5>
                 <div>
                     <input type="radio" value="Heights" id="Q4A1" name="Q4"/>
                     <label for="Q4A1">Heights</label>
