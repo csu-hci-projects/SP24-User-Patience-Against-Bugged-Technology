@@ -184,7 +184,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 24</center><h4>
-            <h5><center>What is your favorite season?</center><h5>
+            <h5 class = "hover-heading"><center><span>What is your favorite season?</span></center><h5>
                 <div>
                     <input type="radio" value="Spring" id="Q9A1" name="Q9"/>
                     <label for="Q9A1">Spring</label>
