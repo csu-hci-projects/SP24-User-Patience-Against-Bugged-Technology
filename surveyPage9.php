@@ -60,7 +60,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 93</center><h4>
-            <h5><center>What is your favorite item of clothing?</center><h5>
+            <h5 class = "hover-heading"><center><span>What is your favorite item of clothing?</span></center><h5>
                 <div>
                     <input type="text" id="Q93A1" name="Q93"/>
                 </div>
