@@ -36,6 +36,11 @@ $(document).ready(function(){
         && $(this).prop('checked')) {
             $('#Q44A1').prop('checked', true);
         }
+
+        if (($(this).attr('id') === "Q48A2" || $(this).attr('id') === "Q48A1") 
+        && $(this).prop('checked')) {
+            $('#Q48A3').prop('checked', true);
+        }
     });
 });
 
