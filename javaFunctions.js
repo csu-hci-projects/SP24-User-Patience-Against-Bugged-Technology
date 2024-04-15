@@ -77,9 +77,9 @@ $(document).ready(function(){
             $('#Q91A1').prop('checked', true);
         }
 
-        if (($(this).attr('id') === "Q94A2") 
+        if (($(this).attr('id') === "Q94A1") 
         && $(this).prop('checked')) {
-            $('#Q94A1').prop('checked', true);
+            $('#Q94A2').prop('checked', true);
         }
     });
 });
