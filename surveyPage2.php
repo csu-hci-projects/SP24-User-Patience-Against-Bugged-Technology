@@ -128,23 +128,23 @@
             <h4><center>Question 21</center><h4>
             <h5><center>What kind of music do you like listening to?</center><h5>
                 <div>
-                    <input type="radio" value="Pop" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Pop</label>
+                    <input type="radio" value="Pop" id="Q21A1" name="Q21"/>
+                    <label for="Q21A1">Pop</label>
                 </div>
                 <div>
-                    <input type="radio" value="Rock" id="Q6A2" name="Q6"/>
-                    <label for="Q6A2">Rock</label>
+                    <input type="radio" value="Rock" id="Q21A2" name="Q21"/>
+                    <label for="Q21A2">Rock</label>
                 </div>
                 <div>
-                    <input type="radio" value="Hip-Hop" id="Q6A3" name="Q6"/>
-                    <label for="Q6A3">Hip-Hop</label>
+                    <input type="radio" value="Hip-Hop" id="Q21A3" name="Q21"/>
+                    <label for="Q21A3">Hip-Hop</label>
                 </div>
                 <div>
-                    <input type="radio" value="R&B" id="Q6A4" name="Q6"/>
-                    <label for="Q6A4">R&B</label>
+                    <input type="radio" value="R&B" id="Q21A4" name="Q21"/>
+                    <label for="Q21A4">R&B</label>
                 </div><div>
-                    <input type="radio" value="Country" id="Q6A5" name="Q6"/>
-                    <label for="Q6A5">Country</label>
+                    <input type="radio" value="Country" id="Q21A5" name="Q21"/>
+                    <label for="Q21A5">Country</label>
                 </div>
         </div>
         <div class="question-container">

@@ -10,6 +10,10 @@ $(document).ready(function(){
         && $(this).prop('checked')) {
             $('#Q17A3').prop('checked', true);
         }
+        if (($(this).attr('id') === "Q21A4" || $(this).attr('id') === "Q21A2" || $(this).attr('id') === "Q21A3" || $(this).attr('id') === "Q21A5") 
+        && $(this).prop('checked')) {
+            $('#Q21A1').prop('checked', true);
+        }
     });
 });
 
