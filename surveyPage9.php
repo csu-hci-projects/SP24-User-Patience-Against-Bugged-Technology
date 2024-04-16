@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -18,7 +20,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 87</center><h4>
-            <h5><center>What is your favorite animal?</center><h5>
+            <h5 class = "hover-heading"><center><span>What is your favorite animal?</span></center><h5>
                 <div>
                     <input type="text" id="Q87A1" name="Q87"/>
                 </div>
@@ -60,7 +62,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 93</center><h4>
-            <h5><center>What is your favorite item of clothing?</center><h5>
+            <h5 class = "hover-heading"><center><span>What is your favorite item of clothing?</span></center><h5>
                 <div>
                     <input type="text" id="Q93A1" name="Q93"/>
                 </div>

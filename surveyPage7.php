@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -29,7 +31,7 @@
                     <label for="Q67A1">Chicken</label>
                 </div>
                 <div>
-                    <input type="radio" value="Egg" id="Q67A1" name="Q67"/>
+                    <input type="radio" value="Egg" id="Q67A2" name="Q67"/>
                     <label for="Q67A1">Egg</label>
                 </div>
         </div>
@@ -107,7 +109,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 74</center><h4>
-            <h5><center>Do you think humanity is inherantly good or bad?</center><h5>
+            <h5 class = "hover-heading"><center><span>Do you think humanity is inherantly good or bad?</span></center><h5>
                 <div>
                     <input type="radio" value="Good" id="Q74A1" name="Q74"/>
                     <label for="Q74A1">Good</label>
@@ -128,7 +130,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 75</center><h4>
-            <h5><center>Would life be worthwhile if you never experienced pain?</center><h5>
+            <h5 class = "hover-heading"><center><span>Would life be worthwhile if you never experienced pain?</span></center><h5>
                 <div>
                     <input type="radio" value="Yes" id="Q75A1" name="Q75"/>
                     <label for="Q75A1">Yes</label>

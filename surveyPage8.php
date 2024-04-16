@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -11,7 +13,7 @@
         <br><br><br><br>
         <div class="question-container">
             <h4><center>Question 76</center><h4>
-            <h5><center>Do you use social media?</center><h5>
+            <h5 class = "hover-heading"><center><span>Do you use social media?</span></center><h5>
                 <div>
                     <input type="radio" value="" id="Q1A1" name="Q1"/>
                     <label for="Q1A1">Yes</label>
@@ -25,12 +27,12 @@
             <h4><center>Question 77</center><h4>
             <h5><center>Do you use Instagram?</center><h5>
             <div>
-                    <input type="radio" value="" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Yes</label>
+                    <input type="radio" value="" id="Q77A1" name="Q77"/>
+                    <label for="Q77A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q2A2" name="Q2"/>
-                    <label for="Q2A2">No</label>
+                    <input type="radio" value="" id="Q77A2" name="Q77"/>
+                    <label for="Q77A2">No</label>
                 </div>
         </div>
         <div class="question-container">
@@ -49,12 +51,12 @@
             <h4><center>Question 79</center><h4>
             <h5><center>Do you use Snapchat?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Yes</label>
+                    <input type="radio" value="" id="Q79A1" name="Q79"/>
+                    <label for="Q79A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q4A2" name="Q4"/>
-                    <label for="Q4A2">No</label>
+                    <input type="radio" value="" id="Q79A2" name="Q79"/>
+                    <label for="Q79A2">No</label>
                 </div>
         </div>
         <div class="question-container">
@@ -95,7 +97,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 83</center><h4>
-            <h5><center>Do you use Youtube? </center><h5>
+            <h5 class = "hover-heading"><center><span>Do you use Youtube?</span> </center><h5>
                 <div>
                     <input type="radio" value="" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">Yes</label>

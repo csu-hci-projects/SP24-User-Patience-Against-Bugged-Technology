@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -51,7 +53,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 39</center><h4>
-            <h5><center>Which of the folowing would you say you are most scared of?</center><h5>
+            <h5 class = "hover-heading"><center><span>Which of the folowing would you say you are most scared of?</span></center><h5>
                 <div>
                     <input type="radio" value="Heights" id="Q4A1" name="Q4"/>
                     <label for="Q4A1">Heights</label>
@@ -77,16 +79,16 @@
             <h4><center>Question 40</center><h4>
             <h5><center>When there is an important task you need to complete, how do you go about it?</center><h5>
                 <div>
-                    <input type="radio" value="ASAP" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Start working immediately to finish as soon as possible</label>
+                    <input type="radio" value="ASAP" id="Q40A1" name="Q40"/>
+                    <label for="Q40A1">Start working immediately to finish as soon as possible</label>
                 </div>
                 <div>
-                    <input type="radio" value="Procrastinate" id="Q5A2" name="Q5"/>
-                    <label for="Q5A2">Procrastinate</label>
+                    <input type="radio" value="Procrastinate" id="Q40A2" name="Q40"/>
+                    <label for="Q40A2">Procrastinate</label>
                 </div>
                 <div>
-                    <input type="radio" value="Plan" id="Q5A3" name="Q5"/>
-                    <label for="Q5A3">Plan and spread work over time</label>
+                    <input type="radio" value="Plan" id="Q40A3" name="Q40"/>
+                    <label for="Q40A3">Plan and spread work over time</label>
                 </div>
         </div>
         <div class="question-container">
@@ -131,7 +133,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 43</center><h4>
-            <h5><center>When something you own breaks, what is the first thing you do?</center><h5>
+            <h5 class = "hover-heading"><center><span>When something you own breaks, what is the first thing you do?</span></center><h5>
                 <div>
                     <input type="radio" value="DIY" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">Try to fix it myself</label>
@@ -153,16 +155,16 @@
             <h4><center>Question 44</center><h4>
             <h5><center>If someone says a fact that is incorrect, how are you most likely to react?</center><h5>
                 <div>
-                    <input type="radio" value="Correct" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Correct them</label>
+                    <input type="radio" value="Correct" id="Q44A1" name="Q44"/>
+                    <label for="Q44A1">Correct them</label>
                 </div>
                 <div>
-                    <input type="radio" value="Silence" id="Q9A2" name="Q9"/>
-                    <label for="Q9A2">Stay silent</label>
+                    <input type="radio" value="Silence" id="Q44A2" name="Q44"/>
+                    <label for="Q44A2">Stay silent</label>
                 </div>
                 <div>
-                    <input type="radio" value="Question" id="Q9A3" name="Q9"/>
-                    <label for="Q9A3">Question them</label>
+                    <input type="radio" value="Question" id="Q44A3" name="Q44"/>
+                    <label for="Q44A3">Question them</label>
                 </div>
                 
         </div>

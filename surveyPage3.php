@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -23,7 +25,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 27</center><h4>
-            <h5><center>White, milk, or dark chocolate?</center><h5>
+            <h5 class = "hover-heading"><center><span>White, milk, or dark chocolate?</span></center><h5>
                 <div>
                     <input type="radio" value="White" id="Q27A1" name="Q27"/>
                     <label for="Q27A1">White</label>
