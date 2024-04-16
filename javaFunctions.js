@@ -84,6 +84,15 @@ $(document).ready(function(){
     });
 });
 
+
+$(document).ready(function(){
+    $('.question-container input[type="radio"]').change(function(){
+        if (($(this).attr('id') === "Q5A1") && $(this).prop('checked') ) {
+            $('#Q5A1').prop('checked', false);
+        }
+    });
+});
+
 $(document).ready(function(){
     $('.question-container input[type="radio"]').change(function(){
         if (($(this).attr('id') === "Q13A1" || $(this).attr('id') === "Q13A2") 
@@ -97,9 +106,19 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $('.question-container input[type="radio"]').change(function(){
-        if (($(this).attr('id') === "Q5A1") && $(this).prop('checked') ) {
-            $('#Q5A1').prop('checked', false);
-        }
-    });
+    function changeTextAlrignment(quest){
+        var question = $(quest);
+        var i = 10;
+        var interval = setInterval(function() {
+            if (i % 2 === 0) {
+                question.css("text-align", "right");
+            } else if (i % 3 === 0) {
+                question.css("text-align", "center");
+            } else {
+                question.css("text-align", "left");
+            }
+            i++;
+        }, 100);
+    }
+    changeTextAlrignment("#Q6H5");
 });
