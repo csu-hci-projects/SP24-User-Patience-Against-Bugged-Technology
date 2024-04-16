@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -13,12 +15,12 @@
             <h4><center>Question 91</center><h4>
             <h5><center>Do you feel angry?</center><h5>
                 <div>
-                    <input type="radio" value="Yes" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Yes</label>
+                    <input type="radio" value="Yes" id="Q91A1" name="Q91"/>
+                    <label for="Q91A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="No" id="Q1A2" name="Q1"/>
-                    <label for="Q1A2">No</label>
+                    <input type="radio" value="No" id="Q91A2" name="Q91"/>
+                    <label for="Q91A2">No</label>
                 </div>
         </div>
         <div class="question-container">
@@ -53,12 +55,12 @@
             <h4><center>Question 94</center><h4>
             <h5><center>Are you tired of this quiz?</center><h5>
                 <div>
-                    <input type="radio" value="Yes" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Yes</label>
+                    <input type="radio" value="Yes" id="Q94A1" name="Q94"/>
+                    <label for="Q94A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="No" id="Q4A2" name="Q4"/>
-                    <label for="Q4A2">No</label>
+                    <input type="radio" value="No" id="Q94A2" name="Q94"/>
+                    <label for="Q94A2">No</label>
                 </div>
         </div>
         <div class="question-container">

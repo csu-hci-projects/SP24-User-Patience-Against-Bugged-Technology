@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -29,7 +31,7 @@
                     <label for="Q67A1">Chicken</label>
                 </div>
                 <div>
-                    <input type="radio" value="Egg" id="Q67A1" name="Q67"/>
+                    <input type="radio" value="Egg" id="Q67A2" name="Q67"/>
                     <label for="Q67A1">Egg</label>
                 </div>
         </div>

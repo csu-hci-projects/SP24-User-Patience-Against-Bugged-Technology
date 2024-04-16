@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -133,20 +135,20 @@
             <h4><center>Question 59</center><h4>
             <h5><center>Do you feel connected to your zodiac sign?</center><h5>
                 <div>
-                    <input type="radio" value="IDK" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">I don't know</label>
+                    <input type="radio" value="IDK" id="Q59A1" name="Q59"/>
+                    <label for="Q59A1">I don't know</label>
                 </div>
                 <div>
-                    <input type="radio" value="Not really" id="Q4A2" name="Q4"/>
-                    <label for="Q4A2">Not really</label>
+                    <input type="radio" value="Not really" id="Q59A2" name="Q59"/>
+                    <label for="Q59A2">Not really</label>
                 </div>
                 <div>
-                    <input type="radio" value="Somewhat" id="Q4A3" name="Q4"/>
-                    <label for="Q4A3">Somewhat</label>
+                    <input type="radio" value="Somewhat" id="Q59A3" name="Q59"/>
+                    <label for="Q59A3">Somewhat</label>
                 </div>
                 <div>
-                    <input type="radio" value="Yes" id="Q4A4" name="Q4"/>
-                    <label for="Q4A4">Yes</label>
+                    <input type="radio" value="Yes" id="Q59A4" name="Q59"/>
+                    <label for="Q59A4">Yes</label>
                 </div>
         </div>
         <div class="question-container">

@@ -4,6 +4,8 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title> Survey </title>
         <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="javaFunctions.js" defer></script>
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
@@ -45,20 +47,20 @@
             <h4><center>Question 17</center><h4>
             <h5><center>Pick your favorite of these animals :</center><h5>
                 <div>
-                    <input type="radio" value="Lion" id="Q2A1" name="Q2"/>
-                    <label for="Q2A1">Lion</label>
+                    <input type="radio" value="Lion" id="Q17A1" name="Q17"/>
+                    <label for="Q17A1">Lion</label>
                 </div>
                 <div>
-                    <input type="radio" value="Tiger" id="Q2A2" name="Q2"/>
-                    <label for="Q2A2">Tiger</label>
+                    <input type="radio" value="Tiger" id="Q17A2" name="Q17"/>
+                    <label for="Q17A2">Tiger</label>
                 </div>
                 <div>
-                    <input type="radio" value="Bear" id="Q2A3" name="Q2"/>
-                    <label for="Q2A3">Bear</label>
+                    <input type="radio" value="Bear" id="Q17A3" name="Q17"/>
+                    <label for="Q17A3">Bear</label>
                 </div>
                 <div>
-                    <input type="radio" value="Wolf" id="Q2A4" name="Q2"/>
-                    <label for="Q2A4">Wolf</label>
+                    <input type="radio" value="Wolf" id="Q17A4" name="Q17"/>
+                    <label for="Q17A4">Wolf</label>
                 </div>
         </div>
         <div class="question-container">
@@ -126,23 +128,23 @@
             <h4><center>Question 21</center><h4>
             <h5><center>What kind of music do you like listening to?</center><h5>
                 <div>
-                    <input type="radio" value="Pop" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Pop</label>
+                    <input type="radio" value="Pop" id="Q21A1" name="Q21"/>
+                    <label for="Q21A1">Pop</label>
                 </div>
                 <div>
-                    <input type="radio" value="Rock" id="Q6A2" name="Q6"/>
-                    <label for="Q6A2">Rock</label>
+                    <input type="radio" value="Rock" id="Q21A2" name="Q21"/>
+                    <label for="Q21A2">Rock</label>
                 </div>
                 <div>
-                    <input type="radio" value="Hip-Hop" id="Q6A3" name="Q6"/>
-                    <label for="Q6A3">Hip-Hop</label>
+                    <input type="radio" value="Hip-Hop" id="Q21A3" name="Q21"/>
+                    <label for="Q21A3">Hip-Hop</label>
                 </div>
                 <div>
-                    <input type="radio" value="R&B" id="Q6A4" name="Q6"/>
-                    <label for="Q6A4">R&B</label>
+                    <input type="radio" value="R&B" id="Q21A4" name="Q21"/>
+                    <label for="Q21A4">R&B</label>
                 </div><div>
-                    <input type="radio" value="Country" id="Q6A5" name="Q6"/>
-                    <label for="Q6A5">Country</label>
+                    <input type="radio" value="Country" id="Q21A5" name="Q21"/>
+                    <label for="Q21A5">Country</label>
                 </div>
         </div>
         <div class="question-container">
