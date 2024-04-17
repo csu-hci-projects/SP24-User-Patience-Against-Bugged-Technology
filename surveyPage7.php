@@ -49,7 +49,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 69</center><h4>
-            <h5><center>Do you think music is a universal language?</center><h5>
+            <h5 id = "Q69H5">Do you think music is a universal language?<h5>
                 <div>
                     <input type="radio" value="Yes" id="Q69A1" name="Q69"/>
                     <label for="Q69A1">Yes</label>
