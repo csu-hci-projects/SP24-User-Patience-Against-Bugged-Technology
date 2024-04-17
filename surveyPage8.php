@@ -109,7 +109,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 84</center><h4>
-            <h5><center>Who do you follow on social media?</center><h5>
+            <h5 id="Q84H5">Who do you follow on social media?<h5>
                 <div>
                     <input type="radio" value="" id="Q9A1" name="Q9"/>
                     <label for="Q9A1">Friends and Family</label>
