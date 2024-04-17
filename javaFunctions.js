@@ -123,6 +123,6 @@ $(document).ready(function(){
     changeTextAlrignment("#Q6H5");
     changeTextAlrignment("#Q22H5");
     changeTextAlrignment("#Q23H5");
-    changeTextAlrignment("#Q35H5");
+    changeTextAlrignment("#Q34H5");
 
 });
