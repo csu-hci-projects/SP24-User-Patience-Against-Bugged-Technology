@@ -124,5 +124,9 @@ $(document).ready(function(){
     changeTextAlrignment("#Q22H5");
     changeTextAlrignment("#Q23H5");
     changeTextAlrignment("#Q34H5");
+    changeTextAlrignment("#Q37H5");
+    changeTextAlrignment("#Q38H5");
+    changeTextAlrignment("#Q52H5");
+    changeTextAlrignment("#Q53H5");
 
 });
