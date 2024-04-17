@@ -131,6 +131,8 @@ $(document).ready(function(){
     changeTextAlrignment("#Q56H5");
     changeTextAlrignment("#Q60H5");
     changeTextAlrignment("#Q69H5");
+    changeTextAlrignment("#Q80H5");
+
 
 
 });

@@ -61,7 +61,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 80</center><h4>
-            <h5><center>Do you use TikTok?</center><h5>
+            <h5 id="Q80H5">Do you use TikTok?<h5>
                 <div>
                     <input type="radio" value="" id="Q5A1" name="Q5"/>
                     <label for="Q5A1">Yes</label>
