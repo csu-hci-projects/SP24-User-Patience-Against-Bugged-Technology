@@ -153,7 +153,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 60</center><h4>
-            <h5 id="Q60H5"><center>Have you ever read horoscopes?</center><h5>
+            <h5 id="Q60H5">Have you ever read horoscopes?<h5>
                 <div>
                     <input type="radio" value="Yes" id="Q5A1" name="Q5"/>
                     <label for="Q5A1">Yes</label>
