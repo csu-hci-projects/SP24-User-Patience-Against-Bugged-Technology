@@ -133,7 +133,9 @@ $(document).ready(function(){
     changeTextAlrignment("#Q69H5");
     changeTextAlrignment("#Q80H5");
     changeTextAlrignment("#Q84H5");
-
-
+    changeTextAlrignment("#Q89H5");
+    changeTextAlrignment("#Q92H5");
+    changeTextAlrignment("#Q95H5");
+    changeTextAlrignment("#Q98H5");
 
 });

@@ -65,7 +65,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 95</center><h4>
-            <h5><center>Do you hate the quiz?</center><h5>
+            <h5 id="Q95H5">Do you hate the quiz?<h5>
                 <div>
                     <input type="radio" value="Yes" id="Q5A1" name="Q5"/>
                     <label for="Q5A1">Yes</label>
@@ -101,7 +101,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 98</center><h4>
-            <h5><center>Are you frustrated?</center><h5>
+            <h5 id="Q98H5">Are you frustrated?<h5>
                 <div>
                     <input type="radio" value="Yes" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">Yes</label>

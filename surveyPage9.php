@@ -34,7 +34,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 89</center><h4>
-            <h5><center>What is your favorite subject to study?</center><h5>
+            <h5 id="Q89H5">What is your favorite subject to study?<h5>
                 <div>
                     <input type="text" id="Q89A1" name="Q89"/>
                 </div>
@@ -55,7 +55,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 92</center><h4>
-            <h5><center>What is your favorite song?</center><h5>
+            <h5 id ="Q92H5">What is your favorite song?<h5>
                 <div>
                     <input type="text" id="Q92A1" name="Q92"/>
                 </div>
@@ -76,7 +76,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 95</center><h4>
-            <h5><center>What is your favorite beach activity?</center><h5>
+            <h5 id="Q95H5">What is your favorite beach activity?<h5>
                 <div>
                     <input type="text" id="Q95A1" name="Q95"/>
                 </div>
