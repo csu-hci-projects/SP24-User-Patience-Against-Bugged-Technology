@@ -9,6 +9,24 @@
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
+    <?php
+        function getMyQuitTime(){
+            $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
+            $quitOn = "(6)";
+            fwrite($myfile, $quitOn);
+            date_default_timezone_set("America/New_York");
+            $start_time = date("h:i:sa");
+            fwrite($myfile, $start_time);
+            $txt = ", ";
+            fwrite($myfile, $txt);
+            fclose($myfile);
+            header('Location: ./afterSurvey.php');
+        }
+        if (isset($_GET['name'])) {
+            getMyQuitTime();
+            
+        }
+    ?>
     <body>
         <br><br><br><br>
         <div class="question-container">
@@ -248,7 +266,7 @@
                     <label for="Q65A3">I like them</label>
                 </div>
         </div>
-        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
+        <a href='surveyPage6.php?name=true' class="button quit-button">Quit Survey</a>
         <center>
         <a href= "surveyPage7.php" class="button button1">Next Page</a>
     </center>
