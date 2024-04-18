@@ -141,16 +141,16 @@
                     <label for="Q105A3">Overwhelmed</label>
                 </div>
                 <div>
-                    <input type="radio" value="Frustrated" id="Q100A4" name="Q100"/>
-                    <label for="Q100A4">Frustrated</label>
+                    <input type="radio" value="Frustrated" id="Q105A4" name="Q105"/>
+                    <label for="Q105A4">Frustrated</label>
                 </div>
                 <div>
-                    <input type="radio" value="Happy" id="Q100A5" name="Q100"/>
-                    <label for="Q100A5">Happy</label>
+                    <input type="radio" value="Happy" id="Q105A5" name="Q105"/>
+                    <label for="Q105A5">Happy</label>
                 </div>
                 <div>
-                    <input type="radio" value="Excited" id="Q100A6" name="Q100"/>
-                    <label for="Q100A6">Excited</label>
+                    <input type="radio" value="Excited" id="Q105A6" name="Q105"/>
+                    <label for="Q105A6">Excited</label>
                 </div>
         </div>
         <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
