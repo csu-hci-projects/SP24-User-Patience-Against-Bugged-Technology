@@ -15,32 +15,32 @@
             <h4><center>Question 16</center><h4>
             <h5><center>What is your favorite color?</center><h5>
                 <div>
-                    <input type="radio" value="Red" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Red</label>
+                    <input type="radio" value="Red" id="Q16A1" name="Q16"/>
+                    <label for="Q16A1">Red</label>
                 </div><div>
-                    <input type="radio" value="Orange" id="Q1A2" name="Q1"/>
-                    <label for="Q1A2">Orange</label>
+                    <input type="radio" value="Orange" id="Q16A2" name="Q16"/>
+                    <label for="Q16A2">Orange</label>
                 </div><div>
-                    <input type="radio" value="Yellow" id="Q1A3" name="Q1"/>
-                    <label for="Q1A3">Yellow</label>
+                    <input type="radio" value="Yellow" id="Q16A3" name="Q16"/>
+                    <label for="Q16A3">Yellow</label>
                 </div><div>
-                    <input type="radio" value="Green" id="Q1A4" name="Q1"/>
-                    <label for="Q1A4">Green</label>
+                    <input type="radio" value="Green" id="Q16A4" name="Q16"/>
+                    <label for="Q16A4">Green</label>
                 </div><div>
-                    <input type="radio" value="Blue" id="Q1A5" name="Q1"/>
-                    <label for="Q1A5">Blue</label>
+                    <input type="radio" value="Blue" id="Q16A5" name="Q16"/>
+                    <label for="Q16A5">Blue</label>
                 </div><div>
-                    <input type="radio" value="Violet" id="Q1A6" name="Q1"/>
-                    <label for="Q1A6">Violet</label>
+                    <input type="radio" value="Violet" id="Q16A6" name="Q16"/>
+                    <label for="Q16A6">Violet</label>
                 </div><div>
-                    <input type="radio" value="Pink" id="Q1A7" name="Q1"/>
-                    <label for="Q1A7">Pink</label>
+                    <input type="radio" value="Pink" id="Q16A7" name="Q16"/>
+                    <label for="Q16A7">Pink</label>
                 </div><div>
-                    <input type="radio" value="Black" id="Q1A8" name="Q1"/>
-                    <label for="Q1A8">Black</label>
+                    <input type="radio" value="Black" id="Q16A8" name="Q16"/>
+                    <label for="Q16A8">Black</label>
                 </div><div>
-                    <input type="radio" value="White" id="Q1A9" name="Q1"/>
-                    <label for="Q1A9">White</label>
+                    <input type="radio" value="White" id="Q16A9" name="Q16"/>
+                    <label for="Q16A9">White</label>
                 </div>
         </div>
         <div class="question-container">
@@ -67,61 +67,61 @@
             <h4><center>Question 18</center><h4>
             <h5><center>What is your favorite thing to do at home?</center><h5>
                 <div>
-                    <input type="radio" value="Sleep" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Sleep</label>
+                    <input type="radio" value="Sleep" id="Q18A1" name="Q18"/>
+                    <label for="Q18A1">Sleep</label>
                 </div>
                 <div>
-                    <input type="radio" value="Eat" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">Eat</label>
+                    <input type="radio" value="Eat" id="Q18A2" name="Q18"/>
+                    <label for="Q18A2">Eat</label>
                 </div>
                 <div>
-                    <input type="radio" value="Play Games" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">Play Games</label>
+                    <input type="radio" value="Play Games" id="Q18A3" name="Q18"/>
+                    <label for="Q18A3">Play Games</label>
                 </div>
                 <div>
-                    <input type="radio" value="Watch TV" id="Q3A3" name="Q3"/>
-                    <label for="Q3A3">Watch TV</label>
+                    <input type="radio" value="Watch TV" id="Q18A3" name="Q18"/>
+                    <label for="Q18A3">Watch TV</label>
                 </div>
                 <div>
-                    <input type="radio" value="HangWPartner" id="Q3A4" name="Q3"/>
-                    <label for="Q3A4">Hang out with Partner</label>
+                    <input type="radio" value="HangWPartner" id="Q18A4" name="Q18"/>
+                    <label for="Q18A4">Hang out with Partner</label>
                 </div>
                 <div>
-                    <input type="radio" value="HangWPets" id="Q3A5" name="Q3"/>
-                    <label for="Q3A5">Hang out with pets</label>
+                    <input type="radio" value="HangWPets" id="Q18A5" name="Q18"/>
+                    <label for="Q18A5">Hang out with pets</label>
                 </div>
                 <div>
-                    <input type="radio" value="Other" id="Q3A6" name="Q3"/>
-                    <label for="Q3A6">Other</label>
+                    <input type="radio" value="Other" id="Q18A6" name="Q18"/>
+                    <label for="Q18A6">Other</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 19</center><h4>
             <h5><center>What is your favorite kind of weather?</center><h5>
                 <div>
-                    <input type="radio" value="Rainy" id="Q4A1" name="Q4"/>
-                    <label for="Q4A1">Rainy</label>
+                    <input type="radio" value="Rainy" id="Q19A1" name="Q19"/>
+                    <label for="Q19A1">Rainy</label>
                 </div><div>
-                    <input type="radio" value="Snowy" id="Q4A2" name="Q4"/>
-                    <label for="Q4A2">Snowy</label>
+                    <input type="radio" value="Snowy" id="Q19A2" name="Q19"/>
+                    <label for="Q19A2">Snowy</label>
                 </div><div>
-                    <input type="radio" value="Sunny" id="Q4A3" name="Q4"/>
-                    <label for="Q4A3">Sunny</label>
+                    <input type="radio" value="Sunny" id="Q19A3" name="Q19"/>
+                    <label for="Q19A3">Sunny</label>
         </div>
         <div class="question-container">
             <h4><center>Question 20</center><h4>
             <h5><center>What is your favorite shape?</center><h5>
                 <div>
-                    <input type="radio" value="Circle" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Circle</label>
+                    <input type="radio" value="Circle" id="Q20A1" name="Q20"/>
+                    <label for="Q20A1">Circle</label>
                 </div>
                 <div>
-                    <input type="radio" value="Square" id="Q5A2" name="Q5"/>
-                    <label for="Q5A2">Square</label>
+                    <input type="radio" value="Square" id="Q20A2" name="Q20"/>
+                    <label for="Q20A2">Square</label>
                 </div>
                 <div>
-                    <input type="radio" value="Triangle" id="Q5A3" name="Q5"/>
-                    <label for="Q5A3">Triange</label>
+                    <input type="radio" value="Triangle" id="Q20A3" name="Q20"/>
+                    <label for="Q20A3">Triange</label>
                 </div>
         </div>
         <div class="question-container">
@@ -151,20 +151,20 @@
             <h4><center>Question 22</center><h4>
             <h5><center>What is your favorite breakfast cereal?</center><h5>
                 <div>
-                    <input type="radio" value="Coco Puffs" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Coco Puffs</label>
+                    <input type="radio" value="Coco Puffs" id="Q22A1" name="Q22"/>
+                    <label for="Q22A1">Coco Puffs</label>
                 </div>
                 <div>
-                    <input type="radio" value="Cheerios" id="Q7A2" name="Q7"/>
-                    <label for="Q7A2">Cheerios</label>
+                    <input type="radio" value="Cheerios" id="Q22A2" name="Q22"/>
+                    <label for="Q22A2">Cheerios</label>
                 </div>
                 <div>
-                    <input type="radio" value="Frosted Flakes" id="Q7A3" name="Q7"/>
-                    <label for="Q7A3">Frosted Flakes</label>
+                    <input type="radio" value="Frosted Flakes" id="Q22A3" name="Q22"/>
+                    <label for="Q22A3">Frosted Flakes</label>
                 </div>
                 <div>
-                    <input type="radio" value="Raisin Bran" id="Q7A4" name="Q7"/>
-                    <label for="Q7A4">Raisin Bran</label>
+                    <input type="radio" value="Raisin Bran" id="Q22A4" name="Q22"/>
+                    <label for="Q22A4">Raisin Bran</label>
                 </div>
                 <div class="bottom-space"></div>
         </div>
@@ -172,36 +172,36 @@
             <h4><center>Question 23</center><h4>
             <h5><center>What is your favorite kind of candy?</center><h5>
                 <div>
-                    <input type="radio" value="Sour Candy" id="Q8A1" name="Q8"/>
-                    <label for="Q8A1">Sour Candy</label>
+                    <input type="radio" value="Sour Candy" id="Q23A1" name="Q23"/>
+                    <label for="Q23A1">Sour Candy</label>
                 </div>
                 <div>
-                    <input type="radio" value="Chocolate Candy" id="Q8A2" name="Q8"/>
-                    <label for="Q8A2">Chocolate Candy</label>
+                    <input type="radio" value="Chocolate Candy" id="Q23A2" name="Q23"/>
+                    <label for="Q23A2">Chocolate Candy</label>
                 </div>
                 <div>
-                    <input type="radio" value="Sweet Candy" id="Q8A3" name="Q8"/>
-                    <label for="Q8A3">Sweet Candy</label>
+                    <input type="radio" value="Sweet Candy" id="Q23A3" name="Q23"/>
+                    <label for="Q23A3">Sweet Candy</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 24</center><h4>
             <h5 class = "hover-heading"><center><span>What is your favorite season?</span></center><h5>
                 <div>
-                    <input type="radio" value="Spring" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Spring</label>
+                    <input type="radio" value="Spring" id="Q24A1" name="Q24"/>
+                    <label for="Q24A1">Spring</label>
                 </div>
                 <div>
-                    <input type="radio" value="Summer" id="Q9A2" name="Q9"/>
-                    <label for="Q9A2">Summer</label>
+                    <input type="radio" value="Summer" id="Q24A2" name="Q24"/>
+                    <label for="Q24A2">Summer</label>
                 </div>
                 <div>
-                    <input type="radio" value="Winter" id="Q9A3" name="Q9"/>
-                    <label for="Q9A3">Winter</label>
+                    <input type="radio" value="Winter" id="Q24A3" name="Q24"/>
+                    <label for="Q24A3">Winter</label>
                 </div>
                 <div>
-                    <input type="radio" value="Fall" id="Q9A4" name="Q9"/>
-                    <label for="Q9A4">Fall</label>
+                    <input type="radio" value="Fall" id="Q24A4" name="Q24"/>
+                    <label for="Q24A4">Fall</label>
                 </div>
                 
         </div>
@@ -209,24 +209,24 @@
             <h4><center>Question 25</center><h4>
             <h5 class="hover-heading"><center><span>What is your favorite low-budget meal?</span></center><h5>
                 <div>
-                    <input type="radio" value="Mac and Cheese" id="Q3A1" name="Q10"/>
-                    <label for="Q3A1">Mac and Cheese</label>
+                    <input type="radio" value="Mac and Cheese" id="Q25A1" name="Q10"/>
+                    <label for="Q25A1">Mac and Cheese</label>
                 </div>
                 <div>
-                    <input type="radio" value="Ramen" id="Q3A2" name="Q10"/>
-                    <label for="Q3A2">Ramen</label>
+                    <input type="radio" value="Ramen" id="Q25A2" name="Q10"/>
+                    <label for="Q25A2">Ramen</label>
                 </div>
                 <div>
-                    <input type="radio" value="Hot Dogs" id="Q3A3" name="Q10"/>
-                    <label for="Q3A3">Hot Dogs</label>
+                    <input type="radio" value="Hot Dogs" id="Q25A3" name="Q10"/>
+                    <label for="Q25A3">Hot Dogs</label>
                 </div>
                 <div>
-                    <input type="radio" value="Bologna Sandwhich" id="Q3A3" name="Q10"/>
-                    <label for="Q3A3">Bologna Sandwich</label>
+                    <input type="radio" value="Bologna Sandwhich" id="Q25A3" name="Q10"/>
+                    <label for="Q25A3">Bologna Sandwich</label>
                 </div>
                 <div>
-                    <input type="radio" value="Other" id="Q3A3" name="Q10"/>
-                    <label for="Q3A3">Other</label>
+                    <input type="radio" value="Other" id="Q25A3" name="Q10"/>
+                    <label for="Q25A3">Other</label>
                 </div>
         </div>
         <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>

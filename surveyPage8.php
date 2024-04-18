@@ -15,12 +15,12 @@
             <h4><center>Question 76</center><h4>
             <h5 class = "hover-heading"><center><span>Do you use social media?</span></center><h5>
                 <div>
-                    <input type="radio" value="" id="Q1A1" name="Q1"/>
-                    <label for="Q1A1">Yes</label>
+                    <input type="radio" value="" id="Q1A1" name="Q76"/>
+                    <label for="Q76A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q1A2" name="Q1"/>
-                    <label for="Q1A2">No</label>
+                    <input type="radio" value="" id="Q76A2" name="Q76"/>
+                    <label for="Q76A2">No</label>
                 </div>
         </div>
         <div class="question-container">
@@ -39,12 +39,12 @@
             <h4><center>Question 78</center><h4>
             <h5><center>Do you use Facebook?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q3A1" name="Q3"/>
-                    <label for="Q3A1">Yes</label>
+                    <input type="radio" value="" id="Q78A1" name="Q78"/>
+                    <label for="Q78A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q3A2" name="Q3"/>
-                    <label for="Q3A2">No</label>
+                    <input type="radio" value="" id="Q78A2" name="Q78"/>
+                    <label for="Q78A2">No</label>
                 </div>
         </div>
         <div class="question-container">
@@ -63,68 +63,68 @@
             <h4><center>Question 80</center><h4>
             <h5><center>Do you use TikTok?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q5A1" name="Q5"/>
-                    <label for="Q5A1">Yes</label>
+                    <input type="radio" value="" id="Q80A1" name="Q80"/>
+                    <label for="Q80A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q5A2" name="Q5"/>
-                    <label for="Q5A2">No</label>
+                    <input type="radio" value="" id="Q80A2" name="Q80"/>
+                    <label for="Q80A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 81</center><h4>
             <h5><center>Do you use Pinterest?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q6A1" name="Q6"/>
-                    <label for="Q6A1">Yes</label>
+                    <input type="radio" value="" id="Q81A1" name="Q81"/>
+                    <label for="Q81A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q6A2" name="Q6"/>
-                    <label for="Q6A2">No</label>
+                    <input type="radio" value="" id="Q81A2" name="Q81"/>
+                    <label for="Q81A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 82</center><h4>
             <h5><center>Have you ever rated an app in the App Store?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q7A1" name="Q7"/>
-                    <label for="Q7A1">Yes</label>
+                    <input type="radio" value="" id="Q82A1" name="Q82"/>
+                    <label for="Q82A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q7A2" name="Q7"/>
-                    <label for="Q7A2">No</label>
+                    <input type="radio" value="" id="Q82A2" name="Q82"/>
+                    <label for="Q82A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 83</center><h4>
             <h5 class = "hover-heading"><center><span>Do you use Youtube?</span> </center><h5>
                 <div>
-                    <input type="radio" value="" id="Q8A1" name="Q8"/>
-                    <label for="Q8A1">Yes</label>
+                    <input type="radio" value="" id="Q83A1" name="Q83"/>
+                    <label for="Q83A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q8A2" name="Q8"/>
-                    <label for="Q8A2">No</label>
+                    <input type="radio" value="" id="Q83A2" name="Q83"/>
+                    <label for="Q83A2">No</label>
                 </div>
         </div>
         <div class="question-container">
             <h4><center>Question 84</center><h4>
             <h5><center>Who do you follow on social media?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q9A1" name="Q9"/>
-                    <label for="Q9A1">Friends and Family</label>
+                    <input type="radio" value="" id="Q84A1" name="Q84"/>
+                    <label for="Q84A1">Friends and Family</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q9A2" name="Q9"/>
-                    <label for="Q9A2">Influencers</label>
+                    <input type="radio" value="" id="Q84A2" name="Q84"/>
+                    <label for="Q84A2">Influencers</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q9A3" name="Q9"/>
-                    <label for="Q9A3">All of the above</label>
+                    <input type="radio" value="" id="Q84A3" name="Q84"/>
+                    <label for="Q84A3">All of the above</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q9A4" name="Q9"/>
-                    <label for="Q9A4">I don't use social media</label>
+                    <input type="radio" value="" id="Q84A4" name="Q84"/>
+                    <label for="Q84A4">I don't use social media</label>
                 </div>
                 
         </div>
@@ -132,16 +132,16 @@
             <h4><center>Question 85</center><h4>
             <h5><center>Would the world be a better place without social media?</center><h5>
                 <div>
-                    <input type="radio" value="" id="Q10A1" name="Q10"/>
-                    <label for="Q10A1">Yes</label>
+                    <input type="radio" value="" id="Q85A1" name="Q85"/>
+                    <label for="Q85A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q10A2" name="Q10"/>
-                    <label for="Q10A2">No</label>
+                    <input type="radio" value="" id="Q85A2" name="Q85"/>
+                    <label for="Q85A2">No</label>
                 </div>
                 <div>
-                    <input type="radio" value="" id="Q10A3" name="Q10"/>
-                    <label for="Q10A3">Maybe</label>
+                    <input type="radio" value="" id="Q85A3" name="Q85"/>
+                    <label for="Q85A3">Maybe</label>
                 </div>
         </div>
         <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
