@@ -13,7 +13,7 @@
         <br><br><br><br>
         <div class="question-container">
             <h4><center>Question 56</center><h4>
-            <h5><center>What month were you born in?</center><h5>
+            <h5 id="Q56H5">What month were you born in?<h5>
                 <div>
                     <input type="radio" value="Jan" id="Q1A1" name="Q1"/>
                     <label for="Q1A1">JAN</label>
@@ -153,7 +153,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 60</center><h4>
-            <h5><center>Have you ever read horoscopes?</center><h5>
+            <h5 id="Q60H5">Have you ever read horoscopes?<h5>
                 <div>
                     <input type="radio" value="Yes" id="Q5A1" name="Q5"/>
                     <label for="Q5A1">Yes</label>

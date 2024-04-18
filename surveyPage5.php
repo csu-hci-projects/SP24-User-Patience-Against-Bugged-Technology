@@ -101,7 +101,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 52</center><h4>
-            <h5><center>Would you prefer to be somewhere landlocked or coastal?</center><h5>
+            <h5 id="Q52H5">Would you prefer to be somewhere landlocked or coastal?<h5>
                 <div>
                     <input type="radio" value="Landlocked" id="Q52A1" name="Q52"/>
                     <label for="Q52A1">Landlocked</label>
@@ -113,7 +113,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 53</center><h4>
-            <h5><center>Do you prefer oceans, lakes, or rivers?</center><h5>
+            <h5 id="Q53H5">Do you prefer oceans, lakes, or rivers?<h5>
                 <div>
                     <input type="radio" value="Oceans" id="Q53A1" name="Q53"/>
                     <label for="Q53A1">Oceans</label>

@@ -29,7 +29,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 37</center><h4>
-            <h5><center>Would you consider yourself a patient person?</center><h5>
+            <h5 id="Q37H5">Would you consider yourself a patient person?</center><h5>
                 <div>
                     <input type="radio" value="Yes" id="Q2A1" name="Q2"/>
                     <label for="Q2A1">Yes</label>
@@ -41,7 +41,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 38</center><h4>
-            <h5><center>Do you value material wealth or emotional wealth more?</center><h5>
+            <h5 id="Q38H5">Do you value material wealth or emotional wealth more?<h5>
                 <div>
                     <input type="radio" value="Material" id="Q3A1" name="Q3"/>
                     <label for="Q3A1">Material Wealth</label>

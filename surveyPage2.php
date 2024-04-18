@@ -149,7 +149,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 22</center><h4>
-            <h5><center>What is your favorite breakfast cereal?</center><h5>
+            <h5 id="Q22H5">What is your favorite breakfast cereal?<h5>
                 <div>
                     <input type="radio" value="Coco Puffs" id="Q7A1" name="Q7"/>
                     <label for="Q7A1">Coco Puffs</label>
@@ -170,7 +170,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 23</center><h4>
-            <h5><center>What is your favorite kind of candy?</center><h5>
+            <h5 id="Q23H5">What is your favorite kind of candy?<h5>
                 <div>
                     <input type="radio" value="Sour Candy" id="Q8A1" name="Q8"/>
                     <label for="Q8A1">Sour Candy</label>

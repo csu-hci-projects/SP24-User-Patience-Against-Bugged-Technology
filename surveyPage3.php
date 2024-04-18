@@ -113,7 +113,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 34</center><h4>
-            <h5><center>Do you prefer dawn or dusk?</center><h5>
+            <h5 id="Q34H5">Do you prefer dawn or dusk?<h5>
                 <div>
                     <input type="radio" value="Dusk" id="Q34A1" name="Q34"/>
                     <label for="Q34A1">Dusk</label>
