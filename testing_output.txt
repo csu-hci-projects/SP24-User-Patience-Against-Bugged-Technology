@@ -1,1 +1,2 @@
-Will eventually contain website test csv output
+StartTime, Age, Gender, Ethnicity, TechProficiency, EndPage, EndTime, FrustrationLevel, MostFrustrated, WorstQuizPart, Intentional, ConsideringQuittingPage, TroubleShooting, Strategies
+
