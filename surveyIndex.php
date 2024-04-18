@@ -13,7 +13,7 @@
             <li><a href="surveyIndex.php">Take The Survey</a></li>
         </ul>
         <h4><center>Instructions:</center><h4>
-        <h5><center>Please complete the following survey to the best of your abilities. <br>
+        <h5><center>Please complete the following survey to the best of your abilities. <br> <br>
             Feel free to quit the survey at any time for any reason- upon quitting, you <br>
             will be directed to a short "experience" survey to report any issues you may <br>
             have had with the survey.
@@ -21,6 +21,14 @@
         Thank you for your participation!<h5></center>
     </body><br>
     <center>
-        <a href="demographics.php" class="button button1">Start the Survey</a>
+        <a href='demographics.php' class="button button1">Start The Survey</a>
     </center>
+    <br>
+    <br>
+    <footer> <center><h6>
+        Contact Us: <br>
+        Github: <a href="https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology">Our Repository</a><br>
+        Email: ri1223@colostate.edu <br>
+        <a href="https://www.cs.colostate.edu/~cs464/#/">Course Website for CS464</a>
+    <center> </footer></h6>
 </html>
