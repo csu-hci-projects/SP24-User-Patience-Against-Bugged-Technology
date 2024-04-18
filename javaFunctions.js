@@ -182,13 +182,13 @@ $(document).ready(function(){
             $('#Q82A1').prop('checked', false);
         }
         if (($(this).attr('id') === "Q98A1") && $(this).prop('checked') ) {
-            $('#Q93A1').prop('checked', false);
+            $('#Q98A1').prop('checked', false);
         }
         if (($(this).attr('id') === "Q101A1") && $(this).prop('checked') ) {
-            $('#Q96A1').prop('checked', false);
+            $('#Q101A1').prop('checked', false);
         }
         if (($(this).attr('id') === "Q104A1") && $(this).prop('checked') ) {
-            $('#Q99A1').prop('checked', false);
+            $('#Q104A1').prop('checked', false);
         }
 
 
