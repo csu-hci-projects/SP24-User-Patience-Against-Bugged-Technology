@@ -90,55 +90,104 @@ $(document).ready(function(){
         if (($(this).attr('id') === "Q5A1") && $(this).prop('checked') ) {
             $('#Q5A1').prop('checked', false);
         }
+
+        // Q18 
         if (($(this).attr('id') === "Q18A1") && $(this).prop('checked') ) {
             $('#Q18A1').prop('checked', false);
         }
+        if (($(this).attr('id') === "Q18A3") && $(this).prop('checked') ) {
+            $('#Q18A3').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q18A5") && $(this).prop('checked') ) {
+            $('#Q18A5').prop('checked', false);
+        }
+
+        // Q25
         if (($(this).attr('id') === "Q25A1") && $(this).prop('checked') ) {
             $('#Q25A1').prop('checked', false);
         }
+        if (($(this).attr('id') === "Q25A2") && $(this).prop('checked') ) {
+            $('#Q25A2').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q25A3") && $(this).prop('checked') ) {
+            $('#Q25A3').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q25A4") && $(this).prop('checked') ) {
+            $('#Q25A4').prop('checked', false);
+        }
+        // Q27
         if (($(this).attr('id') === "Q27A1") && $(this).prop('checked') ) {
             $('#Q27A1').prop('checked', false);
         }
+
+        // Q31
         if (($(this).attr('id') === "Q31A1") && $(this).prop('checked') ) {
             $('#Q31A1').prop('checked', false);
         }
-        if (($(this).attr('id') === "Q43A1") && $(this).prop('checked') ) {
-            $('#Q43A1').prop('checked', false);
+
+        // Q43 
+        if (($(this).attr('id') === "Q43A2") && $(this).prop('checked') ) {
+            $('#Q43A2').prop('checked', false);
         }
+        if (($(this).attr('id') === "Q43A3") && $(this).prop('checked') ) {
+            $('#Q43A3').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q43A4") && $(this).prop('checked') ) {
+            $('#Q43A4').prop('checked', false);
+        }
+
+
         if (($(this).attr('id') === "Q45A1") && $(this).prop('checked') ) {
             $('#Q45A1').prop('checked', false);
         }
+
+
         if (($(this).attr('id') === "Q49A1") && $(this).prop('checked') ) {
             $('#Q49A1').prop('checked', false);
         }
+
+
         if (($(this).attr('id') === "Q58A1") && $(this).prop('checked') ) {
             $('#Q58A1').prop('checked', false);
         }
+
+        // Q62
         if (($(this).attr('id') === "Q62A1") && $(this).prop('checked') ) {
             $('#Q62A1').prop('checked', false);
         }
+        if (($(this).attr('id') === "Q62A3") && $(this).prop('checked') ) {
+            $('#Q62A3').prop('checked', false);
+        }
+
+        // Q64
         if (($(this).attr('id') === "Q64A1") && $(this).prop('checked') ) {
             $('#Q64A1').prop('checked', false);
         }
+        if (($(this).attr('id') === "Q64A2") && $(this).prop('checked') ) {
+            $('#Q64A2').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q64A3") && $(this).prop('checked') ) {
+            $('#Q64A3').prop('checked', false);
+        }
+
+
         if (($(this).attr('id') === "Q71A1") && $(this).prop('checked') ) {
             $('#Q71A1').prop('checked', false);
         }
+
         if (($(this).attr('id') === "Q76A1") && $(this).prop('checked') ) {
             $('#Q76A1').prop('checked', false);
-        }
-        if (($(this).attr('id') === "Q87A1") && $(this).prop('checked') ) {
-            $('#Q87A1').prop('checked', false);
         }
         if (($(this).attr('id') === "Q82A1") && $(this).prop('checked') ) {
             $('#Q82A1').prop('checked', false);
         }
-        if (($(this).attr('id') === "Q93A1") && $(this).prop('checked') ) {
+        if (($(this).attr('id') === "Q98A1") && $(this).prop('checked') ) {
             $('#Q93A1').prop('checked', false);
         }
-        if (($(this).attr('id') === "Q96A1") && $(this).prop('checked') ) {
+        if (($(this).attr('id') === "Q101A1") && $(this).prop('checked') ) {
             $('#Q96A1').prop('checked', false);
         }
-        if (($(this).attr('id') === "Q99A1") && $(this).prop('checked') ) {
+        if (($(this).attr('id') === "Q104A1") && $(this).prop('checked') ) {
             $('#Q99A1').prop('checked', false);
         }
 
