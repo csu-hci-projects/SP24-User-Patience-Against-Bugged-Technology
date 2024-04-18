@@ -79,20 +79,20 @@
                     <label for="Q18A3">Play Games</label>
                 </div>
                 <div>
-                    <input type="radio" value="Watch TV" id="Q18A3" name="Q18"/>
-                    <label for="Q18A3">Watch TV</label>
+                    <input type="radio" value="Watch TV" id="Q18A4" name="Q18"/>
+                    <label for="Q18A4">Watch TV</label>
                 </div>
                 <div>
-                    <input type="radio" value="HangWPartner" id="Q18A4" name="Q18"/>
-                    <label for="Q18A4">Hang out with Partner</label>
+                    <input type="radio" value="HangWPartner" id="Q18A5" name="Q18"/>
+                    <label for="Q18A5">Hang out with Partner</label>
                 </div>
                 <div>
-                    <input type="radio" value="HangWPets" id="Q18A5" name="Q18"/>
-                    <label for="Q18A5">Hang out with pets</label>
+                    <input type="radio" value="HangWPets" id="Q18A6" name="Q18"/>
+                    <label for="Q18A6">Hang out with pets</label>
                 </div>
                 <div>
-                    <input type="radio" value="Other" id="Q18A6" name="Q18"/>
-                    <label for="Q18A6">Other</label>
+                    <input type="radio" value="Other" id="Q18A7" name="Q18"/>
+                    <label for="Q18A7">Other</label>
                 </div>
         </div>
         <div class="question-container">
@@ -221,12 +221,12 @@
                     <label for="Q25A3">Hot Dogs</label>
                 </div>
                 <div>
-                    <input type="radio" value="Bologna Sandwhich" id="Q25A3" name="Q10"/>
-                    <label for="Q25A3">Bologna Sandwich</label>
+                    <input type="radio" value="Bologna Sandwhich" id="Q25A4" name="Q10"/>
+                    <label for="Q25A4">Bologna Sandwich</label>
                 </div>
                 <div>
-                    <input type="radio" value="Other" id="Q25A3" name="Q10"/>
-                    <label for="Q25A3">Other</label>
+                    <input type="radio" value="Other" id="Q25A5" name="Q10"/>
+                    <label for="Q25A5">Other</label>
                 </div>
         </div>
         <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
