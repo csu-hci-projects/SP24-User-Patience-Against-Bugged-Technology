@@ -107,8 +107,8 @@
                     <label for="Q52A1">Landlocked</label>
                 </div>
                 <div>
-                    <input type="radio" value="Coastal" id="Q52A1" name="Q52"/>
-                    <label for="Q52A1">Coastal</label>
+                    <input type="radio" value="Coastal" id="Q52A2" name="Q52"/>
+                    <label for="Q52A2">Coastal</label>
                 </div>
         </div>
         <div class="question-container">

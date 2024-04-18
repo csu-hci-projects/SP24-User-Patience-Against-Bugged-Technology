@@ -19,10 +19,10 @@ chmod 744 surveyPage7.php
 chmod 744 surveyPage8.php
 chmod 744 surveyPage9.php
 chmod 744 surveyPage10.php
+chmod 744 javaFunctions.js
 
 # Excecute Permissions
 chmod 711 application.py
-chmod 711 javaFunctions.js
 
 # Read/Write Permissions
 chmod 766 output.txt

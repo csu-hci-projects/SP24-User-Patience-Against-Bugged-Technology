@@ -67,8 +67,8 @@
                     <label for="Q70A1">Yes</label>
                 </div>
                 <div>
-                    <input type="radio" value="No" id="Q70A1" name="Q70"/>
-                    <label for="Q70A1">No</label>
+                    <input type="radio" value="No" id="Q70A2" name="Q70"/>
+                    <label for="Q70A2">No</label>
                 </div>
         </div>
         <div class="question-container">

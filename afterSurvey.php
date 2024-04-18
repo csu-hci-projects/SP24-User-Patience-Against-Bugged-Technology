@@ -83,20 +83,20 @@
                     <label for="AS7A2">Clicking multiple times</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Alert" id="AS7A2" name="AS7"/>
-                    <label for="AS7A2">Alerting proctor of the issue</label>
+                    <input type="checkbox" value="Alert" id="AS7A3" name="AS7"/>
+                    <label for="AS7A3">Alerting proctor of the issue</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Reload" id="AS7A2" name="AS7"/>
-                    <label for="AS7A2">Refreshing/Reloading the page</label>
+                    <input type="checkbox" value="Reload" id="AS7A4" name="AS7"/>
+                    <label for="AS7A4">Refreshing/Reloading the page</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="Other" id="AS7A2" name="AS7"/>
-                    <label for="AS7A2">Other</label>
+                    <input type="checkbox" value="Other" id="AS7A5" name="AS7"/>
+                    <label for="AS7A5">Other</label>
                 </div>
                 <div>
-                    <input type="checkbox" value="No Attempt" id="AS7A2" name="AS7"/>
-                    <label for="AS7A2">I did not attempt to troubleshoot</label>
+                    <input type="checkbox" value="No Attempt" id="AS7A6" name="AS7"/>
+                    <label for="AS7A6">I did not attempt to troubleshoot</label>
                 </div>
         </div>
 
