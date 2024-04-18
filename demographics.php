@@ -7,16 +7,6 @@
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
-    <?php
-        function getMyTime(){
-            $myfile = fopen("testing_output.txt", "w") or die("Unable to open file!");
-            $txt = "Mickey Mouse\n";
-            fwrite($myfile, $txt);
-            $txt = "Minnie Mouse\n";
-            fwrite($myfile, $txt);
-            fclose($myfile);
-        }
-    ?>
     <body>
         <br><br><br><br>
         <div class="question-container">
@@ -121,7 +111,6 @@
 
         <center>
         <a href=surveyPage1.php class="button button1">Next Page</a>
-        <button onclick="getMyTime()">Click me</button>
 
     </center>
 
