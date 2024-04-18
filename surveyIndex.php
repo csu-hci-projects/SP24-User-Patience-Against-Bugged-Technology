@@ -7,6 +7,22 @@
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
+    <?php
+        function getMyTime(){
+            $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
+            date_default_timezone_set("America/New_York");
+            $start_time = date("h:i:sa");
+            fwrite($myfile, $start_time);
+            $txt = ", ";
+            fwrite($myfile, $txt);
+            fclose($myfile);
+            header('Location: ./demographics.php');
+        }
+        if (isset($_GET['name'])) {
+            getMyTime();
+            
+        }
+    ?>
     <body>
     <ul>
             <li><a href="index.php">Home</a></li>
@@ -21,7 +37,7 @@
         Thank you for your participation!<h5></center>
     </body><br>
     <center>
-        <a href="demographics.php" class="button button1">Start the Survey</a>
+        <a href='surveyIndex.php?name=true' class="button button1">Start The Survey</a>
     </center>
     <br>
     <br>

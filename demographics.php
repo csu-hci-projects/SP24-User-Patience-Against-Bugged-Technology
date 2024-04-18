@@ -111,11 +111,22 @@
 
         <center>
         <a href=surveyPage1.php class="button button1">Next Page</a>
+
     </center>
+
     </body><br>
 </html>
 
 <script>
+    /*function getMyTime(){
+        var d = new Date();
+        const fs = require('fs')
+        fs.writeFile('testing_ouput.txt', d.getTime() + ", ", (err) => {
+            // In case of a error throw err.
+            if (err) throw err;
+        })
+        return d.getTime();
+    }*/
     function quitSurvey() {
         window.location.href = "index.php"; // Will be changed but for now main page 
     }
