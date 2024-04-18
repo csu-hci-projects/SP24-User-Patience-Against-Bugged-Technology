@@ -23,15 +23,16 @@
             <br><br>
             This survey will collect data on your age rage, gender, and tech experience. You will also be timed as you take the survey, but there is no time limit.
             <br><br><center>
-            More About Us:
+            
+            <h3><b> You can quit the survey at any time, for any reason. Please do not take the survey multiple times.</b></h3>
             <br>
-            INSERT BIO STUFF
+            
         </h5>
     </body><br>
-    <footer> <center>
+    <footer> <center><h6>
         Contact Us: <br>
-        Github: ~~link to this page~~<br>
-        Email: ~~~one/all of our emails~~~<br>
-        Course Website for CS464
-    <center> </footer>
+        Github: <a href="https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology">Our Repository</a><br>
+        Email: ri1223@colostate.edu <br>
+        <a href="https://www.cs.colostate.edu/~cs464/#/">Course Website for CS464</a>
+    <center> </footer></h6>
 </html>
