@@ -7,67 +7,9 @@
         <meta name="description" content="Survey Page for Cs464 Experiment">
         <meta name="keywords" content="cs464, CSU, CSS, HTML">
     </head>
-    <?php
-        function getMyTime(){
-            $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
-            $newLine = "\n";
-            fwrite($myfile, $newLine);
-            date_default_timezone_set("America/New_York");
-            $start_time = date("h:i:sa");
-            fwrite($myfile, $start_time);
-            $txt = ", ";
-            fwrite($myfile, $txt);
-            fclose($myfile);
-            header('Location: ./surveyPage1.php');
-        }
-        function saveMyInput(){
-            //Age, Gender, Ethnicity, TechProficiency
-            $age = "age";
-            $gender = "gender";
-            $ethnicity = "ethnicity";
-            $techProf = "tech proficiency";
-
-            if(isset($_POST['Q1'])){
-                $age = $_POST['Q1']." ";
-            }
-            if(isset($_POST['Q2'])){
-                $gender = $_POST['Q2']." ";
-            }
-            if(isset($_POST['Q3'])){
-                $ethnicity = $_POST['Q3']." ";
-            }
-            if(isset($_POST['Q4'])){
-                $techProf = $_POST['Q4']." ";
-            }
-            
-            $file = fopen("testing_output.txt", "a") or die("Unable to open file!");
-            $txt = ", ";
-
-            fwrite($file, $age);
-            fwrite($file, $txt);
-
-            fwrite($file, $gender);
-            fwrite($file, $txt);
-
-            fwrite($file, $ethnicity);
-            fwrite($file, $txt);
-            
-            fwrite($file, $techProf);
-            fwrite($file, $txt);
-        
-            fclose($file);
-                
-            header('Location: ./surveyPage1.php');
-        }
-
-        if (isset($_GET['name'])) {
-            getMyTime();
-            saveMyInput();
-        }
-    ?>
     <body>
         <br><br><br><br>
-        <form method = POST>
+        <form method="post">
             <div class="question-container">
                 <h4><center>Question 1</center><h4>
                 <h5><center>Please select your age range:</center><h5>
@@ -156,32 +98,84 @@
                 <h4><center>Question 4</center><h4>
                 <h5><center>How would you rate your proficiency with technology?</center><h5>
                     <div>
-                        <input type="radio" value="Low" id="Q4A1" name="Q1"/>
+                        <input type="radio" value="Low" id="Q4A1" name="Q4"/>
                         <label for="Q4A1">Low</label>
                     </div><div>
-                        <input type="radio" value="Medium" id="Q4A2" name="Q1"/>
+                        <input type="radio" value="Medium" id="Q4A2" name="Q4"/>
                         <label for="Q4A2">Medium</label>
                     </div><div>
-                        <input type="radio" value="High" id="Q4A3" name="Q1"/>
+                        <input type="radio" value="High" id="Q4A3" name="Q4"/>
                         <label for="Q4A3">High</label>
                     </div>
             </div>
+            <center>
+                <input type="submit" name="submit" value="Submit"><br><br>
+                <a href='demographics.php?name=true' class="button button1">Next Page</a>
+            </center>
         </form>
-
-        <center>
-        <a href='demographics.php?name=true' class="button button1">Next Page</a>
-
-    </center>
-
     </body><br>
 </html>
+<?php
+        function getMyTime(){
+            $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
+            $newLine = "\n";
+            fwrite($myfile, $newLine);
+            date_default_timezone_set("America/New_York");
+            $start_time = date("h:i:sa");
+            fwrite($myfile, $start_time);
+            $txt = ", ";
+            fwrite($myfile, $txt);
+            fclose($myfile);
 
-<script>
-    function quitSurvey() {
-        window.location.href = "index.php"; // Will be changed but for now main page 
-    }
+        }
+        function saveMyInput(){
+            //Age, Gender, Ethnicity, TechProficiency
+            $age = "age";
+            $gender = "gender";
+            $ethnicity = "ethnicity";
+            $techProf = "tech proficiency";
 
-    function nextPage() {
-        window.location.href = "surveyPage1.php"; // Change to the next page in survey 
-    }
-</script>
+            if(filter_has_var(INPUT_POST, 'Q1')){
+                echo "YEEEEEEE";
+            }
+            else{
+                echo "NOOOOOOO";
+            }
+
+            if(isset($_POST['Q1'])){
+                $age = $_POST['Q1']." ";
+            }
+            if(isset($_POST['Q2'])){
+                $gender = $_POST['Q2']." ";
+            }
+            if(isset($_POST['Q3'])){
+                $ethnicity = $_POST['Q3']." ";
+            }
+            if(isset($_POST['Q4'])){
+                $techProf = $_POST['Q4']." ";
+            }
+            
+            $file = fopen("testing_output.txt", "a") or die("Unable to open file!");
+            $txt = ", ";
+
+            fwrite($file, $age);
+            fwrite($file, $txt);
+
+            fwrite($file, $gender);
+            fwrite($file, $txt);
+
+            fwrite($file, $ethnicity);
+            fwrite($file, $txt);
+            
+            fwrite($file, $techProf);
+            fwrite($file, $txt);
+        
+            fclose($file);    
+        }
+
+        if (isset($_GET['name'])) {
+            getMyTime();
+            saveMyInput();
+            //header('Location: ./surveyPage1.php');
+        }
+    ?>
