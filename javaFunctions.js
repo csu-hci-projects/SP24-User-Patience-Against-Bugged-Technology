@@ -90,6 +90,59 @@ $(document).ready(function(){
         if (($(this).attr('id') === "Q5A1") && $(this).prop('checked') ) {
             $('#Q5A1').prop('checked', false);
         }
+        if (($(this).attr('id') === "Q18A1") && $(this).prop('checked') ) {
+            $('#Q18A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q25A1") && $(this).prop('checked') ) {
+            $('#Q25A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q27A1") && $(this).prop('checked') ) {
+            $('#Q27A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q31A1") && $(this).prop('checked') ) {
+            $('#Q31A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q43A1") && $(this).prop('checked') ) {
+            $('#Q43A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q45A1") && $(this).prop('checked') ) {
+            $('#Q45A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q49A1") && $(this).prop('checked') ) {
+            $('#Q49A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q58A1") && $(this).prop('checked') ) {
+            $('#Q58A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q62A1") && $(this).prop('checked') ) {
+            $('#Q62A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q64A1") && $(this).prop('checked') ) {
+            $('#Q64A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q71A1") && $(this).prop('checked') ) {
+            $('#Q71A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q76A1") && $(this).prop('checked') ) {
+            $('#Q76A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q87A1") && $(this).prop('checked') ) {
+            $('#Q87A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q82A1") && $(this).prop('checked') ) {
+            $('#Q82A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q93A1") && $(this).prop('checked') ) {
+            $('#Q93A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q96A1") && $(this).prop('checked') ) {
+            $('#Q96A1').prop('checked', false);
+        }
+        if (($(this).attr('id') === "Q99A1") && $(this).prop('checked') ) {
+            $('#Q99A1').prop('checked', false);
+        }
+
+
     });
 });
 
