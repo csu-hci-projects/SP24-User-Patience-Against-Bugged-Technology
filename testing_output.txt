@@ -1,2 +1,1 @@
 StartTime, Age, Gender, Ethnicity, TechProficiency, (EndPage)EndTime, FrustrationLevel, MostFrustrated, WorstQuizPart, Intentional, ConsideringQuittingPage, TroubleShooting, Strategies
-06:38:35pm, age, gender, ethnicity, tech proficiency, 

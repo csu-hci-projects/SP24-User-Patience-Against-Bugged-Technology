@@ -9,7 +9,7 @@
     </head>
     <body>
         <br><br><br><br>
-        <form method="post">
+        <form method= "post" action = "./startSurvey.php">
             <div class="question-container">
                 <h4><center>Question 1</center><h4>
                 <h5><center>Please select your age range:</center><h5>
@@ -110,7 +110,7 @@
             </div>
             <center>
                 <input type="submit" name="submit" value="Submit"><br><br>
-                <a href='demographics.php?name=true' class="button button1">Next Page</a>
+                <!-- <a href='demographics.php?name=true' class="button button1">Next Page</a> -->
             </center>
         </form>
     </body><br>
