@@ -10,6 +10,8 @@
     <?php
         function getMyTime(){
             $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
+            $newLine = "\n";
+            fwrite($myfile, $newLine);
             date_default_timezone_set("America/New_York");
             $start_time = date("h:i:sa");
             fwrite($myfile, $start_time);
@@ -18,9 +20,12 @@
             fclose($myfile);
             header('Location: ./surveyPage1.php');
         }
+        function saveMyInput(){
+            header('Location: ./surveyPage1.php');
+        }
         if (isset($_GET['name'])) {
             getMyTime();
-            
+            saveMyInput();
         }
     ?>
     <body>
