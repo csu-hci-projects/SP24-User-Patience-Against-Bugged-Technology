@@ -21,7 +21,7 @@
         Thank you for your participation!<h5></center>
     </body><br>
     <center>
-        <a href='surveyIndex.php?name=true' class="button button1">Start The Survey</a>
+        <a href='demographics.php' class="button button1">Start The Survey</a>
     </center>
     <br>
     <br>
