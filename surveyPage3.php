@@ -151,7 +151,7 @@
                     <label for="Q35A2">Right</label>
                 </div>
         </div>
-        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
+        <a href='surveyPage3.php?name=true' class="button quit-button">Quit Survey</a>
         <center>
         <a href="surveyPage4.php" class="button button1">Next Page</a>
     </center>

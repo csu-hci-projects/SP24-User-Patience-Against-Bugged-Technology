@@ -169,9 +169,9 @@
                     <label for="Q100A6">Excited</label>
                 </div>
         </div>
-        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
+        <a href='surveyPage10.php?name=true' class="button quit-button">Quit Survey</a>
         <center>
-        <a href="afterSurvey.php" class="button button1">Complete Survey</a>
+        <a href='surveyPage1.php?name=true' class="button quit-button">Complete Survey</a>
     </center>
     </body><br>
 </html>

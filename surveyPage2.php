@@ -245,7 +245,7 @@
                     <label for="Q25A3">Other</label>
                 </div>
         </div>
-        <a href="afterSurvey.php" onclick="quitSurvey()" class="button quit-button">Quit Survey</a>
+        <a href='surveyPage2.php?name=true' class="button quit-button">Quit Survey</a>
         <center>
         <a href="surveyPage3.php" class="button button1">Next Page</a>
     </center>
