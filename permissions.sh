@@ -27,7 +27,6 @@ chmod 744 javaFunctions.js
 chmod 711 application.py
 
 # Read/Write Permissions
-chmod 766 output.txt
 chmod 766 testing_output.txt
 
 echo "Permission Updating Complete! See below:"
