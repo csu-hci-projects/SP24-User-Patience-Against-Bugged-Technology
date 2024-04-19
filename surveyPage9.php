@@ -87,7 +87,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 94</center><h4>
-            <h5><center>What is your favorite month oof the year?</center><h5>
+            <h5 id="Q94H5">What is your favorite month oof the year?<h5>
                 <div>
                     <input type="text" id="Q94A1" name="Q94"/>
                 </div> 
