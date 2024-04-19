@@ -1,1 +1,2 @@
 StartTime, Age, Gender, Ethnicity, TechProficiency, (EndPage)EndTime, FrustrationLevel, MostFrustrated, WorstQuizPart, Intentional, ConsideringQuittingPage, TroubleShooting, Strategies
+11:26:32pm, 18-20 , Female , Caucasian , Medium , (1)11:26:37pm, 
