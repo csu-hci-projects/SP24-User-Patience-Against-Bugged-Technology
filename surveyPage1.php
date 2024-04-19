@@ -144,7 +144,7 @@
 
         <div class="question-container">
             <h4><center>Question 12</center><h4>
-            <h5><center>Do you regularly go to the dentist?</center><h5>
+            <h5 id="Q12H5">Do you regularly go to the dentist?<h5>
                 <div>
                     <input type="radio" value="Caucasian" id="Q12A1" name="Q12"/>
                     <label for="Q12A1">Yes</label>
