@@ -241,3 +241,13 @@ $(document).ready(function(){
     changeTextAlrignment("#Q98H5");
 
 });
+
+$(document).ready(function(){
+    function changeTextSize(quest){
+        var question = $(quest);
+        question.css("font-size", "6px");
+        question.css("text-align", "center");
+    }
+    changeTextSize("#Q12H5");
+
+});
