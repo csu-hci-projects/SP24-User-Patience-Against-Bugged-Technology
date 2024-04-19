@@ -27,34 +27,51 @@
             $TroubleShooting = "Trouble Shooting";
             $Strategies = "Strategies";
 
-            if(isset($_REQUEST['Q1'])){
-                $age = $_REQUEST['Q1']." ";
+            if(isset($_POST['AS1'])){
+                $FrustrationLevel = $_POST['AS1']." ";
             }
-            if(isset($_POST['Q2'])){
-                $gender = $_POST['Q2']." ";
+            if(isset($_POST['AS2'])){
+                $MostFrustrated = $_POST['AS2']." ";
             }
-            if(isset($_POST['Q3'])){
-                $ethnicity = $_POST['Q3']." ";
+            if(isset($_POST['AS3'])){
+                $WorstQuizPart = $_POST['AS3']." ";
             }
-            if(isset($_POST['Q4'])){
-                $techProf = $_POST['Q4']." ";
+            if(isset($_POST['AS4'])){
+                $Intentional = $_POST['AS4']." ";
+            }
+            if(isset($_POST['AS5'])){
+                $ConsideringQuittingPage = $_POST['AS5']." ";
+            }
+            if(isset($_POST['AS6'])){
+                $TroubleShooting = $_POST['AS6']." ";
+            }
+            if(isset($_POST['AS7'])){
+                $Strategies = $_POST['AS7']." ";
             }
             
             $file = fopen("testing_output.txt", "a") or die("Unable to open file!");
             $txt = ", ";
 
-            fwrite($file, $age);
+            fwrite($file, $FrustrationLevel);
             fwrite($file, $txt);
 
-            fwrite($file, $gender);
-            fwrite($file, $txt);
-
-            fwrite($file, $ethnicity);
+            fwrite($file, $MostFrustrated);
             fwrite($file, $txt);
             
-            fwrite($file, $techProf);
+            fwrite($file, $WorstQuizPart);
             fwrite($file, $txt);
         
+            fwrite($file, $Intentional);
+            fwrite($file, $txt);
+
+            fwrite($file, $ConsideringQuittingPage);
+            fwrite($file, $txt);
+
+            fwrite($file, $TroubleShooting);
+            fwrite($file, $txt);
+            
+            fwrite($file, $Strategies);
+
             fclose($file);    
         }
 
