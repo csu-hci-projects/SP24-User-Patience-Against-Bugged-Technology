@@ -131,7 +131,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 104</center><h4>
-            <h5><center>How close are you to giving up?</center><h5>
+            <h5 id="Q104H5">How close are you to giving up?</center><h5>
                 <div>
                     <input type="radio" value="Never" id="Q104A1" name="Q104"/>
                     <label for="Q104A1">I could do this all day</label>

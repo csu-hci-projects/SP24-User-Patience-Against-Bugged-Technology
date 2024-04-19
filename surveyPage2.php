@@ -63,7 +63,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 17</center><h4>
-            <h5><center>Pick your favorite of these animals :</center><h5>
+            <h5 id="Q17H5">Pick your favorite of these animals :<h5>
                 <div>
                     <input type="radio" value="Lion" id="Q17A1" name="Q17"/>
                     <label for="Q17A1">Lion</label>
@@ -115,7 +115,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 19</center><h4>
-            <h5><center>What is your favorite kind of weather?</center><h5>
+            <h5 id="Q19H5">What is your favorite kind of weather?<h5>
                 <div>
                     <input type="radio" value="Rainy" id="Q19A1" name="Q19"/>
                     <label for="Q19A1">Rainy</label>

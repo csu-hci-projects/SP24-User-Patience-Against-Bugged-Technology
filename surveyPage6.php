@@ -199,7 +199,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 62</center><h4>
-            <h5><center>Do you feel like any horoscope you may have read was accurate?</center><h5>
+            <h5 id="Q62H5">Do you feel like any horoscope you may have read was accurate?<h5>
                 <div>
                     <input type="radio" value="Never" id="Q7A1" name="Q62"/>
                     <label for="Q62A1">I've never read my horoscopes</label>

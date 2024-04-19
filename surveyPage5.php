@@ -91,7 +91,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 50</center><h4>
-            <h5><center>Would you rather live somewhere humid or dry?</center><h5>
+            <h5 id="Q50H5">Would you rather live somewhere humid or dry?<h5>
                 <div>
                     <input type="radio" value="Humid" id="Q50A1" name="Q50"/>
                     <label for="Q50A1">Humid</label>

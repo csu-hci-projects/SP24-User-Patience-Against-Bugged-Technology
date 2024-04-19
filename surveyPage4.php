@@ -171,7 +171,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 44</center><h4>
-            <h5><center>If someone says a fact that is incorrect, how are you most likely to react?</center><h5>
+            <h5 id="Q44H5">If someone says a fact that is incorrect, how are you most likely to react?<h5>
                 <div>
                     <input type="radio" value="Correct" id="Q44A1" name="Q44"/>
                     <label for="Q44A1">Correct them</label>

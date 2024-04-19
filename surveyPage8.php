@@ -43,7 +43,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 77</center><h4>
-            <h5><center>Do you use Instagram?</center><h5>
+            <h5 id="Q77H5">Do you use Instagram?<h5>
             <div>
                     <input type="radio" value="" id="Q77A1" name="Q77"/>
                     <label for="Q77A1">Yes</label>
@@ -103,7 +103,7 @@
         </div>
         <div class="question-container">
             <h4><center>Question 82</center><h4>
-            <h5><center>Have you ever rated an app in the App Store?</center><h5>
+            <h5 id="Q82H5">Have you ever rated an app in the App Store?<h5>
                 <div>
                     <input type="radio" value="" id="Q82A1" name="Q82"/>
                     <label for="Q82A1">Yes</label>

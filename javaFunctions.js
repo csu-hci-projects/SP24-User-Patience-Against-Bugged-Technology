@@ -249,5 +249,15 @@ $(document).ready(function(){
         question.css("text-align", "center");
     }
     changeTextSize("#Q12H5");
+    changeTextSize("#Q17H5");
+    changeTextSize("#Q50H5");
+    changeTextSize("#Q77H5");
+    changeTextSize("#Q94H5");
+    changeTextSize("#Q44H5");
+    changeTextSize("#Q62H5");
+    changeTextSize("#Q82H5");
+    changeTextSize("#Q19H5");
+    changeTextSize("#Q104H5");
+    changeTextSize("#Q103H5");
 
 });
