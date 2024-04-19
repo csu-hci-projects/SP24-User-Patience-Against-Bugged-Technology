@@ -20,6 +20,7 @@ chmod 744 surveyPage7.php
 chmod 744 surveyPage8.php
 chmod 744 surveyPage9.php
 chmod 744 surveyPage10.php
+chmod 744 endSurvey.php
 chmod 744 javaFunctions.js
 
 # Excecute Permissions
