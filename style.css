@@ -106,3 +106,14 @@ li a:hover {
 .hover-heading:hover span{
     color:rgb(27, 11, 93)
 }
+input[type="submit"] {
+    background-color: #352770; 
+    color: white ; 
+    border: 2px solid #352770;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.input[type="submit"]:hover {
+    background-color: white;
+    color: #352770;
+    border: 2px solid #352770;
+  }

@@ -11,10 +11,13 @@
     <body>
     <h1><center>You will now proceed into the survey portion.</center><h1><br>
     <h1><center>Remember: you can quit at any time.</center><h1>
-    <center><a href='startSurvey.php?name=true' class="button button1">Proceed</a><center>
+    <center><a href='./surveyPage1.php' class="button button1">Proceed</a><center>
     </body>
-    
+
     <?php
+  
+        getMyTime();
+        saveMyInput();
         function getMyTime(){
             $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
             $newLine = "\n";
@@ -25,7 +28,6 @@
             $txt = ", ";
             fwrite($myfile, $txt);
             fclose($myfile);
-
         }
         function saveMyInput(){
             //Age, Gender, Ethnicity, TechProficiency
@@ -34,15 +36,8 @@
             $ethnicity = "ethnicity";
             $techProf = "tech proficiency";
 
-            if(filter_has_var(INPUT_POST, 'Q1')){
-                echo "YEEEEEEE";
-            }
-            else{
-                echo "NOOOOOOO";
-            }
-
-            if(isset($_POST['Q1'])){
-                $age = $_POST['Q1']." ";
+            if(isset($_REQUEST['Q1'])){
+                $age = $_REQUEST['Q1']." ";
             }
             if(isset($_POST['Q2'])){
                 $gender = $_POST['Q2']." ";
@@ -72,11 +67,7 @@
             fclose($file);    
         }
 
-        if (isset($_GET['name'])) {
-            getMyTime();
-            saveMyInput();
-            header('Location: ./surveyPage1.php');
-        }
+        
     ?>
 </html>
 

@@ -109,73 +109,10 @@
                     </div>
             </div>
             <center>
-                <input type="submit" name="submit" value="Submit"><br><br>
+                <br><br>
+                <input type="submit" name="submit" class= "button button1" value="Submit"><br><br>
                 <!-- <a href='demographics.php?name=true' class="button button1">Next Page</a> -->
             </center>
         </form>
     </body><br>
 </html>
-<?php
-        function getMyTime(){
-            $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
-            $newLine = "\n";
-            fwrite($myfile, $newLine);
-            date_default_timezone_set("America/New_York");
-            $start_time = date("h:i:sa");
-            fwrite($myfile, $start_time);
-            $txt = ", ";
-            fwrite($myfile, $txt);
-            fclose($myfile);
-
-        }
-        function saveMyInput(){
-            //Age, Gender, Ethnicity, TechProficiency
-            $age = "age";
-            $gender = "gender";
-            $ethnicity = "ethnicity";
-            $techProf = "tech proficiency";
-
-            if(filter_has_var(INPUT_POST, 'Q1')){
-                echo "YEEEEEEE";
-            }
-            else{
-                echo "NOOOOOOO";
-            }
-
-            if(isset($_POST['Q1'])){
-                $age = $_POST['Q1']." ";
-            }
-            if(isset($_POST['Q2'])){
-                $gender = $_POST['Q2']." ";
-            }
-            if(isset($_POST['Q3'])){
-                $ethnicity = $_POST['Q3']." ";
-            }
-            if(isset($_POST['Q4'])){
-                $techProf = $_POST['Q4']." ";
-            }
-            
-            $file = fopen("testing_output.txt", "a") or die("Unable to open file!");
-            $txt = ", ";
-
-            fwrite($file, $age);
-            fwrite($file, $txt);
-
-            fwrite($file, $gender);
-            fwrite($file, $txt);
-
-            fwrite($file, $ethnicity);
-            fwrite($file, $txt);
-            
-            fwrite($file, $techProf);
-            fwrite($file, $txt);
-        
-            fclose($file);    
-        }
-
-        if (isset($_GET['name'])) {
-            getMyTime();
-            saveMyInput();
-            //header('Location: ./surveyPage1.php');
-        }
-    ?>

@@ -9,6 +9,7 @@ chmod 744 demographics.php
 chmod 744 index.php
 chmod 744 style.css
 chmod 744 surveyIndex.php
+chmod 744 startSurvey.php
 chmod 744 surveyPage1.php
 chmod 744 surveyPage2.php
 chmod 744 surveyPage3.php
