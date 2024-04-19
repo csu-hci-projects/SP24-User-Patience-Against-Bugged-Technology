@@ -12,7 +12,7 @@
     <?php
         function getMyQuitTime(){
             $myfile = fopen("testing_output.txt", "a") or die("Unable to open file!");
-            $quitOn = "(4)";
+            $quitOn = "4, ";
             fwrite($myfile, $quitOn);
             date_default_timezone_set("America/New_York");
             $start_time = date("h:i:sa");
