@@ -239,6 +239,8 @@ $(document).ready(function(){
     changeTextAlrignment("#Q92H5");
     changeTextAlrignment("#Q95H5");
     changeTextAlrignment("#Q98H5");
+    changeTextAlrignment("#Q100H5");
+
 
 });
 
