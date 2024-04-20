@@ -113,7 +113,7 @@
                     <label for="Q72A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id = "question73">
             <h4><center>Question 73</center><h4>
             <h5><center>Can a person be happy and sad at the same time?</center><h5>
                 <div>
@@ -146,7 +146,7 @@
                 </div>
                 
         </div>
-        <div class="question-container">
+        <div class="question-container" >
             <h4><center>Question 75</center><h4>
             <h5 class = "hover-heading"><center><span>Would life be worthwhile if you never experienced pain?</span></center><h5>
                 <div>

@@ -29,7 +29,7 @@
     ?>
     <body>
         <br><br><br><br>
-        <div class="question-container">
+        <div class="question-container" id = "question96">
             <h4><center>Question 96</center><h4>
             <h5><center>Do you feel angry?</center><h5>
                 <div>
@@ -41,7 +41,7 @@
                     <label for="Q96A2">No</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id = "question97" >
             <h4><center>Question 97</center><h4>
             <h5><center>Do you feel tired?</center><h5>
                 <div>
