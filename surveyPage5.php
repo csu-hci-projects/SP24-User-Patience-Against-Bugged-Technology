@@ -45,7 +45,7 @@
                     <label for="Q46A3">Somewhat</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question47">
             <h4><center>Question 47</center><h4>
             <h5><center>Do you like house plants?</center><h5>
                 <div>
@@ -162,7 +162,7 @@
                 </div>
                 
         </div>
-        <div class="question-container">
+        <div class="question-container" id= "question55">
             <h4><center>Question 55</center><h4>
             <h5><center>Do you enjoy outdoor activities?(walking, surfing, etc)</center><h5>
                 <div>

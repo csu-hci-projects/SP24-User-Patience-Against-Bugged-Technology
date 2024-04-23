@@ -197,12 +197,62 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $('.question-container input[type="radio"]').change(function(){
+
+        let html = "<div class=\"question-container\" id=\"question11\"><h4><center>Question 11</center><h4> <h5><center>When you get sick, do you take sick days?</center><h5> <div><input type=\"radio\" value=\"Caucasian\" id=\"Q11A1\" name=\"Q11\"/> <label for=\"Q11A1\">Always</label></div><div><input type=\"radio\" value=\"African-American\" id=\"Q11A2\" name=\"Q11\"/><label for=\"Q11A2\">Never</label></div><div><input type=\"radio\" value=\"Latino or Hispanic\" id=\"Q11A3\" name=\"Q11\"/><label for=\"Q11A3\">Sometimes</label></div></div>";
+
         if (($(this).attr('id') === "Q13A1" || $(this).attr('id') === "Q13A2") 
         && $(this).prop('checked')) {
-            
-            let html = "<div class=\"question-container\" id=\"question11\"><h4><center>Question 11</center><h4> <h5><center>When you get sick, do you take sick days?</center><h5> <div><input type=\"radio\" value=\"Caucasian\" id=\"Q11A1\" name=\"Q11\"/> <label for=\"Q11A1\">Always</label></div><div><input type=\"radio\" value=\"African-American\" id=\"Q11A2\" name=\"Q11\"/><label for=\"Q11A2\">Never</label></div><div><input type=\"radio\" value=\"Latino or Hispanic\" id=\"Q11A3\" name=\"Q11\"/><label for=\"Q11A3\">Sometimes</label></div></div>";
-
             $('#question13').html(html);
+        }
+
+        if (($(this).attr('id') === "Q28A1" || $(this).attr('id') === "Q28A2") 
+        && $(this).prop('checked')) {
+            $('#question28').html(html);
+        }
+
+        if (($(this).attr('id') === "Q29A1" || $(this).attr('id') === "Q29A2") 
+        && $(this).prop('checked')) {
+            $('#question29').html(html);
+        }
+
+        if (($(this).attr('id') === "Q42A1" || $(this).attr('id') === "Q42A2" || $(this).attr('id') === "Q42A3" || $(this).attr('id') === "Q42A4") 
+        && $(this).prop('checked')) {
+            $('#question42').html(html);
+        }
+
+        if (($(this).attr('id') === "Q47A1" || $(this).attr('id') === "Q47A2" || $(this).attr('id') === "Q47A3") 
+        && $(this).prop('checked')) {
+            $('#question47').html(html);
+        }
+
+        if (($(this).attr('id') === "Q55A1" || $(this).attr('id') === "Q55A2") 
+        && $(this).prop('checked')) {
+            $('#question55').html(html);
+        }
+
+        if (($(this).attr('id') === "Q65A1" || $(this).attr('id') === "Q65A2" || $(this).attr('id') === "Q65A3") 
+        && $(this).prop('checked')) {
+            $('#question65').html(html);
+        }
+
+        if (($(this).attr('id') === "Q73A1" || $(this).attr('id') === "Q73A2") 
+        && $(this).prop('checked')) {
+            $('#question73').html(html);
+        }
+
+        if (($(this).attr('id') === "Q85A1" || $(this).attr('id') === "Q85A2" || $(this).attr('id') === "Q85A2") 
+        && $(this).prop('checked')) {
+            $('#question85').html(html);
+        }
+
+        if (($(this).attr('id') === "Q96A1" || $(this).attr('id') === "Q96A2") 
+        && $(this).prop('checked')) {
+            $('#question96').html(html);
+        }
+
+        if (($(this).attr('id') === "Q97A1" || $(this).attr('id') === "Q97A2") 
+        && $(this).prop('checked')) {
+            $('#question97').html(html);
         }
     });
 });
@@ -239,6 +289,8 @@ $(document).ready(function(){
     changeTextAlrignment("#Q92H5");
     changeTextAlrignment("#Q95H5");
     changeTextAlrignment("#Q98H5");
+    changeTextAlrignment("#Q100H5");
+
 
 });
 

@@ -57,7 +57,7 @@
                     <label for="Q27A3">Chocolate</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question28">
             <h4><center>Question 28</center><h4>
             <h5><center>Do you prefer waffles or pancakes?</center><h5>
                 <div>
@@ -69,7 +69,7 @@
                     <label for="Q28A2">Pancakes</label>
                 </div>
         </div>
-        <div class="question-container">
+        <div class="question-container" id="question29">
             <h4><center>Question 29</center><h4>
             <h5><center>Would you rather have a sweet or savory breakfast?</center><h5>
                 <div>
