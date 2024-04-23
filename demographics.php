@@ -24,7 +24,7 @@
                         <label for="Q1A3">21-25</label>
                     </div><div>
                         <input type="radio" value="26-30" id="Q1A4" name="Q1"/>
-                        <label for="Q1A4">26-30</label>
+                        <label for="Q1A4">26-30+</label>
                     </div>
             </div>
             <div class="question-container">
