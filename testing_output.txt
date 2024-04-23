@@ -2,3 +2,4 @@ StartTime, Age, Gender, Ethnicity, TechProficiency, EndPage, EndTime, Frustratio
 09:51:54pm, 21-25 , Male , Two or More , Medium , 1, 10:02:47pm, None , when unable to unselect options , Other , Yes , 5 , Yes , Multiple Clicks 
 10:07:28pm, 21-25 , Female , Caucasian , High , 1, 10:16:31pm, Moderate , SICK DAYS , Bugs , Yes , 1 , No , No Attempt 
 02:24:18pm, 21-25 , Other , Two or More , High , 1, 02:35:27pm, High , When the question changed , Bugs , Yes , Question 50ish , Yes , Other 
+02:47:51pm, 21-25 , Female , Latino or Hispanic , Low , 10, 03:01:31pm, None , Not being allowed to click the options I wanted to , Bugs , Yes , I didn't , Yes , Other 
