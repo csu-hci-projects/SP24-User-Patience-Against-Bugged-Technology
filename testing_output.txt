@@ -1,1 +1,3 @@
 StartTime, Age, Gender, Ethnicity, TechProficiency, EndPage, EndTime, FrustrationLevel, MostFrustrated, WorstQuizPart, Intentional, ConsideringQuittingPage, TroubleShooting, Strategies
+09:51:54pm, 21-25 , Male , Two or More , Medium , 1, 10:02:47pm, None , when unable to unselect options , Other , Yes , 5 , Yes , Multiple Clicks 
+10:07:28pm, 21-25 , Female , Caucasian , High , 1, 10:16:31pm, Moderate , SICK DAYS , Bugs , Yes , 1 , No , No Attempt 
