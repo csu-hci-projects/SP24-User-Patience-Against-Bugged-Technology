@@ -4,3 +4,4 @@ StartTime, Age, Gender, Ethnicity, TechProficiency, EndPage, EndTime, Frustratio
 02:24:18pm, 21-25 , Other , Two or More , High , 10, 02:35:27pm, High , When the question changed , Bugs , Yes , Question 50ish , Yes , Other 
 02:47:51pm, 21-25 , Female , Latino or Hispanic , Low , 10, 03:01:31pm, None , Not being allowed to click the options I wanted to , Bugs , Yes , I didn't , Yes , Other 
 03:12:35pm, 26-30 , Male , Caucasian , High , 4, 03:15:10pm, High , when the question switched , Bugs , Yes , 4 , No , Strategies
+03:43:27pm, 21-25 , Non-binary , Caucasian , High , 10, 03:59:41pm, Moderate , Question 20 or so , Bugs , Yes , none , Yes , Alert 
