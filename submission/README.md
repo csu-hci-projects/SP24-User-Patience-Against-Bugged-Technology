@@ -15,3 +15,6 @@ For further information about the CS Servers we used to make this web applicatio
 - [CSU CS Web Aps](https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology/wiki/CS_Apps)
 To read more about other aspects of our project, you can find the rest of our GitHub wiki here:
 - [Wiki](https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology/wiki/Home)
+
+## Videos
+- [Videos](https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology/wiki/Videos)
