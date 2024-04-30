@@ -1,0 +1,119 @@
+footer{
+    text-align: center;
+    color: white;
+    background-color: #9aa9e3;
+    
+}
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(27, 11, 93);
+    
+}
+h4{
+    font-size: 25px;
+    font-style: bold;
+}
+h5{
+    font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #352770;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+li a:hover {
+    background-color: white;
+    color: #352770;
+    border: 2px solid #352770;
+}
+.button {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    align-items: center;
+  }
+.button1 {
+    background-color: #352770; 
+    color: white ; 
+    border: 2px solid #352770;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: #352770;
+    border: 2px solid #352770;
+  }
+  .center{
+    justify-content: center;
+    align-items: center;
+  }
+  .quit-button {
+    border: 2px solid red;
+    text-emphasis-style: bold;
+    color: black;
+    background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    position: fixed;
+} 
+.quit-button:hover {
+    background-color: rgb(189, 0, 0);
+    color:white; 
+    position: fixed;
+} 
+.question-container {
+    text-align: left;
+    border: 2px solid #352770;
+}
+
+.bottom-space {
+    height: 50px; 
+}
+
+.question-container input[type="text"] {
+    margin: 0 auto; 
+    display: block; 
+}
+
+.hover-heading span {
+    color: white; /* Set default color to white */
+}
+
+.hover-heading:hover span{
+    color:rgb(27, 11, 93)
+}
+input[type="submit"] {
+    background-color: #352770; 
+    color: white ; 
+    border: 2px solid #352770;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.input[type="submit"]:hover {
+    background-color: white;
+    color: #352770;
+    border: 2px solid #352770;
+  }
