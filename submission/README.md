@@ -5,7 +5,7 @@ Ri Nabbefeld, Tegan Wall, Mari Lake
 This project seeks to explore the correlation between a user's demographics and their patience with faults within technology. 
 
 ## Prototype Link  
-To view the prototype release of the app used in the collection of our data, go to https://www.cs.colostate.edu/~ri1223/wip-cs464/SP24-User-Patience-Against-Bugged-Technology/index.php  
+To run and view our prototype release of the app used in the collection of our data, go to https://www.cs.colostate.edu/~ri1223/wip-cs464/SP24-User-Patience-Against-Bugged-Technology/index.php  
 > Please note that different web browsers will render the page differently: use Firefox or Chrome for the best experience. 
 
 ## Dirctory
