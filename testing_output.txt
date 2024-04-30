@@ -5,3 +5,8 @@ StartTime, Age, Gender, Ethnicity, TechProficiency, EndPage, EndTime, Frustratio
 02:47:51pm, 21-25 , Female , Latino or Hispanic , Low , 10, 03:01:31pm, None , Not being allowed to click the options I wanted to , Bugs , Yes , I didn't , Yes , Other 
 03:12:35pm, 26-30 , Male , Caucasian , High , 4, 03:15:10pm, High , when the question switched , Bugs , Yes , 4 , No , Strategies
 03:43:27pm, 21-25 , Non-binary , Caucasian , High , 10, 03:59:41pm, Moderate , Question 20 or so , Bugs , Yes , none , Yes , Alert 
+09:29:52pm, 21-25 , Non-binary , Caucasian , Low , 10, 09:47:32pm, Moderate , If I ever see Question 11 again, me and it are going to go out back and we're going to brawl. It's never going to see its family again.  , Other , Yes , I'm not a quitter , Yes , Multiple Clicks 
+04:40:20pm, 26-30 , Male , Caucasian , High , 10, 05:00:25pm, None ,  , Bugs , No ,  , Yes , Multiple Clicks 
+05:15:13pm, 26-30 , Female , Caucasian , Medium , 10, 05:31:52pm, None , When computers lock up , Worst Quiz Part, Yes , None I wanted to see it to the end and I was laughing the whole time! LOL! , No , No Attempt 
+05:56:12pm, 26-30 , Female , Caucasian , Medium , 8, 06:10:39pm, Moderate , at the first time it changed my answer , Bugs , Yes , at the first time it changed my answer , No , Alert 
+06:08:50pm, 18-20 , Male , Native American , Medium , 10, 06:29:51pm, None , None 👍 , Bugs , Yes , None  , Yes , No Attempt 
