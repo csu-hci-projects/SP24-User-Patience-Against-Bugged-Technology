@@ -8,6 +8,7 @@ For this project, our work was very evenly distributed, with no one member doing
 - "Answer Railroding" bug
 - "Question Swap" bug
 - "Hover Text" bug
+- "Answer Swap" bug
 ### Paper:
 - Co-wrote Proposal
 - Wrote Introduction Section
