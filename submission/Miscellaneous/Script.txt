@@ -1,0 +1,13 @@
+Before:
+
+Today you will be completing a survey on our website. 
+First, you will click the Take the Survey tab in the upper left corner of the website. 
+Please read the instructions carefully before taking. After this you will click the Take the Survey button. 
+Next, you should complete the survey to the best of your ability. 
+After the first page of the survey, you are able to quit at any point in time for any reason using the 
+Quit button in the upper righthand corner of your screen.
+
+During(if they point out a bug to you):
+
+- Oh that’s very strange. Just try to continue the survey the best you can!
+- Oh no that’s not supposed to happen. Just try to continue to the best of your ability.
