@@ -15,6 +15,7 @@ For this project, our work was very evenly distributed, with no one member doing
 - Wrote Methodology Section
 - Co-wrote Related Works Section
 - Wrote Limitations Section
+- Wrote Conclusion Section
 ### Misc: 
 - Lead the LATex formatting for our paper
 - Co-wrote the [Bugged Questions guide page](https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology/wiki/Bugged_Questions)
@@ -30,6 +31,7 @@ For this project, our work was very evenly distributed, with no one member doing
 - Co-wrote Propoasl
 ### Misc: 
 - Co-wrote the [Bugged Questions guide page](https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology/wiki/Bugged_Questions)
+- Created the final submission videos
 
 ## Ri Nabbefeld: Contributions
 ### Code:
@@ -39,7 +41,8 @@ For this project, our work was very evenly distributed, with no one member doing
 ### Paper:
 - Co-wrote Proposal
 - Co-wrote Related Works Section
-- Performed Data Analysis 
+- Performed Data Analysis
+- Made Data Analysis Graphs
 - Wrote Results Section
 - Wrote Discussions Section
 ### Misc: 
