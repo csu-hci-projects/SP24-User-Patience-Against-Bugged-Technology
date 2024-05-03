@@ -32,6 +32,7 @@ For this project, our work was very evenly distributed, with no one member doing
 ### Misc: 
 - Co-wrote the [Bugged Questions guide page](https://github.com/csu-hci-projects/SP24-User-Patience-Against-Bugged-Technology/wiki/Bugged_Questions)
 - Created the final submission videos
+- Edited the final submission videos
 
 ## Ri Nabbefeld: Contributions
 ### Code:
