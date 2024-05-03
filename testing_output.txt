@@ -10,3 +10,6 @@ StartTime, Age, Gender, Ethnicity, TechProficiency, EndPage, EndTime, Frustratio
 05:15:13pm, 26-30 , Female , Caucasian , Medium , 10, 05:31:52pm, None , When computers lock up , Worst Quiz Part, Yes , None I wanted to see it to the end and I was laughing the whole time! LOL! , No , No Attempt 
 05:56:12pm, 26-30 , Female , Caucasian , Medium , 8, 06:10:39pm, Moderate , at the first time it changed my answer , Bugs , Yes , at the first time it changed my answer , No , Alert 
 06:08:50pm, 18-20 , Male , Native American , Medium , 10, 06:29:51pm, None , None 👍 , Bugs , Yes , None  , Yes , No Attempt 
+
+03:17:20pm, age, gender, ethnicity, tech proficiency, 
+03:23:28am, 21-25 , Male , Latino or Hispanic , High , 10, 03:30:21am, Moderate , a few questions in , Length , Yes , 6 , No , No Attempt 
